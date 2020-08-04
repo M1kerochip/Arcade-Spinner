@@ -10,23 +10,31 @@ The enclosure that I used can be bought at: https://www.galco.com/buy/Hammond-Ma
 The knob for the encoder that I used can be bought at: https://www.amazon.com/gp/product/B01D2IIC3S
 
 
-You should now be able to use the info found at http://wiki.arcadecontrols.com/index.php/Spinner_Turn_Count to adjust the analog sensitivity in MAME to more accurately simulate the original hardware with this spinner. Also, make sure to turn off mouse acceleration for this to work properly.
+You should now be able to use the info found at http://wiki.arcadecontrols.com/index.php/Spinner_Turn_Count to adjust the analog sensitivity in MAME to more accurately simulate the original hardware with this spinner. 
+
+
+## NOTE ##
+
+Make sure to turn off mouse acceleration for the spinner to work properly.
 
 
 
-2020-08-01
+## Updates ##
 
-Added 2 axis joystick.
-Removed Arduino Pro Micro comments.
+### 2020-08-01 ###
 
-
-
-2019-07-18
-
-No more mouse movement modes, you shouldn't need them. Also added a Y axis to the controller as it was reported it was not being detected on RetroPie without it. 
+* Added 2 axis joystick.
+* Removed Arduino Pro Micro comments. (All Arduino Pro Micro's I've purchased have the same pinout as the standard Arduino Micro)
+* Added example Mame controller config file with button layout
 
 
 
-2019-07-03
+### 2019-07-18 ###
 
-Craig B contributed some code for optimizing button polling and for different mouse movement modes (ACCM/DROP). There is now also a maxBut #define to choose how many buttons you want, up to 10, and #if logic to set the initial state of those buttons. Adding more buttons if you need them or adapting the code to your specific board should be trivial.
+* No more mouse movement modes, you shouldn't need them. Also added a Y axis to the controller as it was reported it was not being detected on RetroPie without it. 
+
+
+
+### 2019-07-03 ###
+
+* Craig B contributed some code for optimizing button polling and for different mouse movement modes (ACCM/DROP). There is now also a maxBut #define to choose how many buttons you want, up to 10, and #if logic to set the initial state of those buttons. Adding more buttons if you need them or adapting the code to your specific board should be trivial.

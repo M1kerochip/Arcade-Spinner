@@ -1,6 +1,7 @@
 /*   Arcade Spinner v0.71
 *    Copyright 2018 Joe W (jmtw000 a/t gmail.com)
 *                   Craig B - Updated code for mouse movement modes(DROP, ACCM) and case statement for Button port bit validation
+*                   Mike F (badgered Joe W into adding Joystick Code!)
 *    
 *    This program is free software: you can redistribute it and/or modify
 *    it under the terms of the GNU General Public License as published by
@@ -22,7 +23,7 @@
                  
 #define pinA 2    // The pins that the rotary encoder's A and B terminals are connected to.
 #define pinB 3
-#define maxBut 10 // The number of buttons you are using up to 20.
+#define maxBut 10 // The number of buttons you are using up to 20, though, if using a 2 axis joystick, max is 18 buttons.
 
 
 //Create a Joystick object.
@@ -140,11 +141,11 @@ volatile int rotMulti = 0;
 void setup() {
   //No need to set the pin modes with DDRx = DDRx | 0b00000000 as we're using all input and that's the initial state of the pins
   //Use internal input resistors for all the pins we're using  
-  PORTD = 0b11010011; //Digital pins D2, D3, D4, D6, and D12.
-  PORTB = 0b11111111; //Digital pins D8, D9, D10, D11, MISO, MOSI, SCLK, SS
-  PORTC = 0b11000000; //Digital pin D5 and D13
-  PORTE = 0b01000000; //Digital pin D7
-  PORTF = 0b11110011; //Digital pin A0, A1, A2, A3, A4, A5
+  PORTD = 0b11010011; // Digital pins D2, D3, D4, D6, D12
+  PORTB = 0b11111111; // Digital pins D8, D9, D10, D11, MISO, MOSI, SCLK, SS
+  PORTC = 0b11000000; // Digital pin D5, D13
+  PORTE = 0b01000000; // Digital pin D7
+  PORTF = 0b11110011; // Digital pin A0, A1, A2, A3, A4, A5
   
   //Start the joystick
   Joystick.begin();

@@ -1,0 +1,84 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Arduino Micro - 10 Button USB Joystick with Rotary Encoder (Smaller) REV .1.6
+*Date=17:59:33
+*CreatedBy=Fritzing 0.9.5d.2020-02-07.CD-548-0-3d61c58
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;74.4474;-1.5322;0;Bottom;Copper Fill18
+2;;;14.401;-33.0809;-90;Bottom;TXT2
+3;;;42.8498;-18.0168;0;Bottom;Copper Fill34
+4;;;45.1467;-33.5061;-90;Bottom;TXT2
+5;;;52.1335;-20.506;0;Bottom;Copper Fill35
+6;;;29.4894;-25.6114;0;Bottom;Copper Fill1
+7;;;77.7748;-18.0422;0;Bottom;Copper Fill26
+8;;;38.3286;-29.269;0;Bottom;Copper Fill5
+9;;;8.97034;-2.05042;0;Bottom;IMG1
+10;;;22.5044;-8.8982;0;Bottom;Copper Fill30
+11;;;6.57503;-18.6715;90;Bottom;TXT3
+12;;;35.4584;-28.6594;0;Bottom;Copper Fill3
+13;;;76.8985;-17.1659;0;Bottom;Copper Fill24
+14;;;62.0522;-13.2162;0;Bottom;Copper Fill14
+15;;;70.986;-33.4958;-90;Bottom;TXT2
+16;;;36.8808;-5.9772;0;Bottom;Copper Fill31
+17;;;39.878;-5.8248;0;Bottom;Copper Fill32
+18;;;72.9517;-2.52176;0;Bottom;IMG2
+19;;;73.1026;-11.3718;0;Bottom;Hole1
+20;;;50.1489;-33.4994;-90;Bottom;TXT2
+21;;;24.457;-33.8059;-90;Bottom;TXT2
+22;;;65.7358;-33.5073;-90;Bottom;TXT2
+23;;;9.75033;-34.0293;-90;Bottom;TXT2
+24;;;83.0822;-23.1593;0;Bottom;TXT2
+25;;;29.603;-33.833;-90;Bottom;TXT2
+26;;;57.2135;-3.6023;0;Bottom;Copper Fill21
+27;;;55.1965;-33.516;-90;Bottom;TXT2
+28;;THT;24.6733;-30.8768;-90;Bottom;2.54mm 7 Pin Screw Terminal1
+29;;;33.2232;-25.713;0;Bottom;Copper Fill27
+30;;;59.1312;-18.0168;0;Bottom;Copper Fill11
+31;;;83.6277;-7.77563;0;Bottom;TXT2
+32;;;50.1396;-17.3564;0;Bottom;Copper Fill12
+33;;;83.6239;-12.8957;0;Bottom;TXT2
+34;;;34.5373;-34.073;-90;Bottom;TXT2
+35;;;35.56;-21.8776;0;Bottom;Copper Fill10
+36;;;52.1335;-18.8296;0;Bottom;Copper Fill36
+37;;;42.3926;-17.2548;0;Bottom;Copper Fill29
+38;;;57.2135;-5.2787;0;Bottom;Copper Fill20
+39;;;83.6228;-18.2797;0;Bottom;TXT2
+40;;;46.0327;-10.5174;0;Bottom;TXT2
+41;;;0.9906;-16.8992;0;Bottom;Copper Fill19
+42;;;38.6334;-24.6716;0;Bottom;Copper Fill6
+43;;;83.085;-28.0289;0;Bottom;TXT2
+44;;;47.879;-27.0846;0;Bottom;Copper Fill4
+45;;;6.7564;-26.4496;0;Bottom;Copper Fill7
+46;;;21.0058;-10.1428;0;Bottom;Copper Fill13
+47;;;83.1198;-33.1429;0;Bottom;TXT2
+48;;;12.4714;-7.7298;0;Bottom;Copper Fill15
+49;;;9.8298;-6.9932;0;Bottom;Copper Fill17
+50;;;50.9778;-27.7958;0;Bottom;Copper Fill2
+51;;;60.8124;-33.5169;-90;Bottom;TXT2
+52;;;75.9714;-18.0422;0;Bottom;Copper Fill25
+53;;THT;80.5426;-18.0106;0;Bottom;2.54mm 7 Pin Screw Terminal1
+54;;;52.1335;-20.506;0;Bottom;Copper Fill22
+55;;;39.4716;-17.1786;0;Bottom;Copper Fill16
+56;;db9;3.3844;-18.2468;-90;Bottom;DR9 M
+57;;;8.96758;-19.6268;0;Bottom;Hole2
+58;;;27.4828;-25.1796;0;Bottom;Copper Fill28
+59;;;44.5099;-12.0068;90;Bottom;Arduino Micro
+60;;;21.2608;-11.9208;90;Bottom;TXT1
+61;;;19.3983;-34.1525;-90;Bottom;TXT2
+62;;;39.7005;-34.0662;-90;Bottom;TXT2
+63;;;83.1198;-2.54041;0;Bottom;TXT2
+64;;;42.6466;-5.8756;0;Bottom;Copper Fill33
+65;;THT;57.6933;-30.8768;-90;Bottom;2.54mm 6 Pin Screw Terminal2
+66;;;76.8985;-18.9693;0;Bottom;Copper Fill23
+67;;;31.5214;-24.1382;0;Bottom;Copper Fill8
+68;;;8.96758;-2.48179;0;Bottom;Hole3
+69;;;3.2512;-18.2962;0;Bottom;Copper Fill9

@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='3.38328in' height='1.51219in' viewBox='0 0 243.596 108.878' >
+<g partID='855768660'><g transform='translate(0,1.30436)' ><g xmlns="http://www.w3.org/2000/svg" id="board">
+ <rect xmlns="http://www.w3.org/2000/svg" fill="#ffffff" width="242.353" x="0.288" stroke-width="0.576" id="boardoutline" y="0.288" stroke="#111111" fill-opacity="0.5" height="101.471"/>
+</g>
+</g></g><g partID='855768662'><g transform='translate(0,1.30436)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen0">
+ <rect xmlns="http://www.w3.org/2000/svg" fill="none" width="242.353" x="0.288" stroke-width="0.576" y="0.288" stroke="#000000" height="101.471"/>
+</g>
+</g></g><g partID='855768700'><g transform='translate(194.62,44.1166)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="10.8" cx="3.6" stroke-width="1.2" id="connector47pad" r="1.94" stroke="#F7BD13"/>
+ <rect xmlns="http://www.w3.org/2000/svg" fill="none" x="1.659" width="3.881" stroke-width="1.2" y="8.86" stroke="#F7BD13" height="3.879"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="18" cx="3.6" stroke-width="1.2" id="connector48pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="25.2" cx="3.6" stroke-width="1.2" id="connector49pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="32.4" cx="3.6" stroke-width="1.2" id="connector50pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="39.6" cx="3.6" stroke-width="1.2" id="connector51pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="46.8" cx="3.6" stroke-width="1.2" id="connector52pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="54" cx="3.6" stroke-width="1.2" id="connector53pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="61.2" cx="3.6" stroke-width="1.2" id="connector54pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="68.4" cx="3.6" stroke-width="1.2" id="connector55pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="75.6" cx="3.6" stroke-width="1.2" id="connector56pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="82.8" cx="3.6" stroke-width="1.2" id="connector57pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="90" cx="3.6" stroke-width="1.2" id="connector58pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="97.2" cx="3.6" stroke-width="1.2" id="connector59pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="104.4" cx="3.6" stroke-width="1.2" id="connector60pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="111.6" cx="3.6" stroke-width="1.2" id="connector61pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="118.8" cx="3.6" stroke-width="1.2" id="connector62pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="126" cx="3.6" stroke-width="1.2" id="connector63pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="10.8" cx="46.8" stroke-width="1.2" id="connector64pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="18" cx="46.8" stroke-width="1.2" id="connector65pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="25.2" cx="46.8" stroke-width="1.2" id="connector66pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="32.4" cx="46.8" stroke-width="1.2" id="connector67pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="39.6" cx="46.8" stroke-width="1.2" id="connector68pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="46.8" cx="46.8" stroke-width="1.2" id="connector69pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="68.4" cx="46.8" stroke-width="1.2" id="connector72pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="75.6" cx="46.8" stroke-width="1.2" id="connector73pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="61.2" cx="46.8" stroke-width="1.2" id="connector81pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="54" cx="46.8" stroke-width="1.2" id="connector80pad_1_" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="82.8" cx="46.8" stroke-width="1.2" id="connector74pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="90" cx="46.8" stroke-width="1.2" id="connector75pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="97.2" cx="46.8" stroke-width="1.2" id="connector76pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="104.4" cx="46.8" stroke-width="1.2" id="connector77pad" r="1.94" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="111.6" cx="46.8" stroke-width="1.2" id="connector78pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="118.8" cx="46.8" stroke-width="1.2" id="connector79pad" r="1.941" stroke="#F7BD13"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="126" cx="46.8" stroke-width="1.2" id="connector80pad" r="1.941" stroke="#F7BD13"/>
+</g>
+</g></g></g><g partID='855797930'><g transform='translate(119.62,30.4366)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08)">
+ <g  id="copper0">
+  <g  gorn="0.1.0">
+   <rect  stroke-opacity="1" fill="none" width="4.32" x="12.24" stroke-width="1.44" id="square" y="6.84" gorn="0.1.0.0" stroke="#f7bd13" height="4.32"/>
+   <circle  stroke-opacity="1" fill="none" cy="9" cx="14.4" stroke-width="1.44" id="connector0pin" r="2.16" gorn="0.1.0.1" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="23.4" cx="14.4" stroke-width="1.44" id="connector1pin" r="2.16" gorn="0.1.0.2" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="37.8" cx="14.4" stroke-width="1.44" id="connector2pin" r="2.16" gorn="0.1.0.3" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="52.2" cx="14.4" stroke-width="1.44" id="connector3pin" r="2.16" gorn="0.1.0.4" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="66.6" cx="14.4" stroke-width="1.44" id="connector4pin" r="2.16" gorn="0.1.0.5" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="81" cx="14.4" stroke-width="1.44" id="connector5pin" r="2.16" gorn="0.1.0.6" stroke="#f7bd13"/>
+  </g>
+ </g>
+</g>
+</g></g></g><g partID='855793430'><g transform='translate(18.8201,30.4366)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08001)">
+ <g  id="copper0">
+  <g  gorn="0.1.0">
+   <rect  stroke-opacity="1" fill="none" width="4.32" x="12.24" stroke-width="1.44" id="square" y="6.84" gorn="0.1.0.0" stroke="#f7bd13" height="4.32"/>
+   <circle  stroke-opacity="1" fill="none" cy="9" cx="14.4" stroke-width="1.44" id="connector0pin" r="2.16" gorn="0.1.0.1" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="23.4" cx="14.4" stroke-width="1.44" id="connector1pin" r="2.16" gorn="0.1.0.2" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="37.8" cx="14.4" stroke-width="1.44" id="connector2pin" r="2.16" gorn="0.1.0.3" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="52.2" cx="14.4" stroke-width="1.44" id="connector3pin" r="2.16" gorn="0.1.0.4" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="66.6" cx="14.4" stroke-width="1.44" id="connector4pin" r="2.16" gorn="0.1.0.5" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="81" cx="14.4" stroke-width="1.44" id="connector5pin" r="2.16" gorn="0.1.0.6" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="95.4" cx="14.4" stroke-width="1.44" id="connector6pin" r="2.16" gorn="0.1.0.7" stroke="#f7bd13"/>
+  </g>
+ </g>
+</g>
+</g></g></g><g partID='855768760'><g transform='translate(1.73708,95.57)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="28.2376" stroke-width="1.224" id="connector6pad" r="2.052" stroke="#F7BD13" connectorname="5"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#F7BD13" d="m25.5736,8.84919,5.32801,0,0,5.32799,-5.32801,0,0,-5.32799zM26.7976,11.5132a1.44,1.44,0,1,0,2.88,0,1.44,1.44,0,1,0,-2.88,0z" stroke-width="0" stroke="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="36.0896" stroke-width="1.224" id="connector5pad" r="2.052" stroke="#F7BD13" connectorname="4"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="43.9416" stroke-width="1.224" id="connector4pad" r="2.052" stroke="#F7BD13" connectorname="3"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="51.7936" stroke-width="1.224" id="connector3pad" r="2.052" stroke="#F7BD13" connectorname="2"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="59.6456" stroke-width="1.224" id="connector1pad" r="2.052" stroke="#F7BD13" connectorname="1"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="32.1778" stroke-width="1.224" id="connector10pad" r="2.052" stroke="#F7BD13" connectorname="9"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="40.0298" stroke-width="1.224" id="connector9pad" r="2.052" stroke="#F7BD13" connectorname="8"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="47.8534" stroke-width="1.224" id="connector8pad" r="2.052" stroke="#F7BD13" connectorname="7"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="55.7054" stroke-width="1.224" id="connector7pad" r="2.052" stroke="#F7BD13" connectorname="6"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="7.48799" cx="8.50848" stroke-width="2.52" id="connector0pad" r="5.94001" stroke="#F7BD13" connectorname="G1"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="7.48799" cx="79.3747" stroke-width="2.52" id="connector2pad" r="5.94001" stroke="#F7BD13" connectorname="G2"/>
+</g>
+</g></g></g><g partID='855768800'><g transform='translate(213.7,1.1778)' ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08001)">
+ <g  id="copper0">
+  <g  gorn="0.1.0">
+   <rect  stroke-opacity="1" fill="none" width="4.32" x="12.24" stroke-width="1.44" id="square" y="6.84" gorn="0.1.0.0" stroke="#f7bd13" height="4.32"/>
+   <circle  stroke-opacity="1" fill="none" cy="9" cx="14.4" stroke-width="1.44" id="connector0pin" r="2.16" gorn="0.1.0.1" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="23.4" cx="14.4" stroke-width="1.44" id="connector1pin" r="2.16" gorn="0.1.0.2" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="37.8" cx="14.4" stroke-width="1.44" id="connector2pin" r="2.16" gorn="0.1.0.3" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="52.2" cx="14.4" stroke-width="1.44" id="connector3pin" r="2.16" gorn="0.1.0.4" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="66.6" cx="14.4" stroke-width="1.44" id="connector4pin" r="2.16" gorn="0.1.0.5" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="81" cx="14.4" stroke-width="1.44" id="connector5pin" r="2.16" gorn="0.1.0.6" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="95.4" cx="14.4" stroke-width="1.44" id="connector6pin" r="2.16" gorn="0.1.0.7" stroke="#f7bd13"/>
+  </g>
+ </g>
+</g>
+</g></g><g partID='855780960'><line stroke-linecap='round' stroke='#f28a00' x1='92.0479' y1='96.3302' x2='61.4615' y2='96.3302' stroke-width='1.728' /></g><g partID='855780740'><line stroke-linecap='round' stroke='#f28a00' x1='61.4615' y1='96.3302' x2='20.0409' y2='63.9413' stroke-width='1.728' /></g><g partID='855803170'><line stroke-linecap='round' stroke='#f28a00' x1='20.0409' y1='63.9413' x2='14.4538' y2='60.271' stroke-width='1.728' /></g><g partID='855780630'><line stroke-linecap='round' stroke='#f28a00' x1='96.476' y1='91.8678' x2='92.0479' y2='96.3302' stroke-width='1.728' /></g><g partID='855786890'><line stroke-linecap='round' stroke='#f28a00' x1='187.378' y1='99.903' x2='57.7783' y2='99.903' stroke-width='1.728' /></g><g partID='855786780'><line stroke-linecap='round' stroke='#f28a00' x1='57.7783' y1='99.903' x2='9.22014' y2='72.9025' stroke-width='1.728' /></g><g partID='855786670'><line stroke-linecap='round' stroke='#f28a00' x1='9.22014' y1='72.9025' x2='5.76057' y2='64.7186' stroke-width='1.728' /></g><g partID='855786520'><line stroke-linecap='round' stroke='#f28a00' x1='216.595' y1='95.7031' x2='187.378' y2='99.9031' stroke-width='1.728' /></g><g partID='855770210'><line stroke-linecap='round' stroke='#f28a00' x1='138.82' y1='62.0612' x2='127.104' y2='48.7234' stroke-width='1.728' /></g><g partID='855769060'><line stroke-linecap='round' stroke='#f28a00' x1='216.693' y1='94.9377' x2='138.82' y2='62.0612' stroke-width='1.728' /></g><g partID='855770280'><line stroke-linecap='round' stroke='#f28a00' x1='142.392' y1='58.4888' x2='134.277' y2='48.7462' stroke-width='1.728' /></g><g partID='855768990'><line stroke-linecap='round' stroke='#f28a00' x1='216.64' y1='80.6849' x2='142.392' y2='58.4884' stroke-width='1.728' /></g><g partID='855770140'><line stroke-linecap='round' stroke='#f28a00' x1='145.964' y1='54.9166' x2='141.418' y2='48.7926' stroke-width='1.728' /></g><g partID='855768920'><line stroke-linecap='round' stroke='#f28a00' x1='216.599' y1='66.465' x2='145.964' y2='54.9162' stroke-width='1.728' /></g><g partID='855785810'><line stroke-linecap='round' stroke='#f28a00' x1='38.0199' y1='9.86604' x2='9.2199' y2='29.76' stroke-width='1.728' /></g><g partID='855792570'><line stroke-linecap='round' stroke='#f28a00' x1='9.2199' y1='29.76' x2='5.73219' y2='38.5266' stroke-width='1.728' /></g><g partID='855801570'><line stroke-linecap='round' stroke='#f28a00' x1='158.5' y1='8.5966' x2='38.0199' y2='9.866' stroke-width='1.728' /></g><g partID='855785700'><line stroke-linecap='round' stroke='#f28a00' x1='216.58' y1='9.08567' x2='158.5' y2='8.5966' stroke-width='1.728' /></g><g partID='855799120'><line stroke-linecap='round' stroke='#f28a00' x1='174.82' y1='38.7166' x2='110.02' y2='40.5166' stroke-width='1.728' /></g><g partID='855799230'><line stroke-linecap='round' stroke='#f28a00' x1='110.02' y1='40.5166' x2='105.424' y2='46.6438' stroke-width='1.728' /></g><g partID='855799010'><line stroke-linecap='round' stroke='#f28a00' x1='198.257' y1='26.7705' x2='174.82' y2='38.7166' stroke-width='1.728' /></g><g partID='855799530'><line stroke-linecap='round' stroke='#f28a00' x1='108.22' y1='36.9166' x2='173.02' y2='35.1166' stroke-width='1.728' /></g><g partID='855799640'><line stroke-linecap='round' stroke='#f28a00' x1='173.02' y1='35.1166' x2='183.984' y2='26.9751' stroke-width='1.728' /></g><g partID='855799420'><line stroke-linecap='round' stroke='#f28a00' x1='98.3674' y1='46.7691' x2='108.22' y2='36.9166' stroke-width='1.728' /></g><g partID='855799960'><line stroke-linecap='round' stroke='#f28a00' x1='164.02' y1='31.5166' x2='106.42' y2='33.3166' stroke-width='1.728' /></g><g partID='855800070'><line stroke-linecap='round' stroke='#f28a00' x1='106.42' y1='33.3166' x2='91.2214' y2='46.8264' stroke-width='1.728' /></g><g partID='855799830'><line stroke-linecap='round' stroke='#f28a00' x1='169.618' y1='27.0186' x2='164.02' y2='31.5166' stroke-width='1.728' /></g><g partID='855801310'><line stroke-linecap='round' stroke='#f28a00' x1='92.0199' y1='13.5166' x2='138.823' y2='17.1304' stroke-width='1.728' /></g><g partID='855801420'><line stroke-linecap='round' stroke='#f28a00' x1='138.823' y1='17.1304' x2='155.059' y2='25.4593' stroke-width='1.728' /></g><g partID='855801200'><line stroke-linecap='round' stroke='#f28a00' x1='79.42' y1='20.7166' x2='92.0199' y2='13.5166' stroke-width='1.728' /></g><g partID='855800830'><line stroke-linecap='round' stroke='#f28a00' x1='69.1179' y1='46.4715' x2='79.42' y2='20.7166' stroke-width='1.728' /></g><g partID='855800940'><line stroke-linecap='round' stroke='#f28a00' x1='133.42' y1='20.7166' x2='140.724' y2='25.3457' stroke-width='1.728' /></g><g partID='855801050'><line stroke-linecap='round' stroke='#f28a00' x1='97.4199' y1='17.1166' x2='133.42' y2='20.7166' stroke-width='1.728' /></g><g partID='855800720'><line stroke-linecap='round' stroke='#f28a00' x1='76.5932' y1='46.621' x2='97.4199' y2='17.1166' stroke-width='1.728' /></g><g partID='855800330'><line stroke-linecap='round' stroke='#f28a00' x1='108.22' y1='20.7166' x2='102.82' y2='29.7166' stroke-width='1.728' /></g><g partID='855800440'><line stroke-linecap='round' stroke='#f28a00' x1='102.82' y1='29.7166' x2='84.0121' y2='46.8145' stroke-width='1.728' /></g><g partID='855800590'><line stroke-linecap='round' stroke='#f28a00' x1='120.82' y1='22.5166' x2='108.22' y2='20.7166' stroke-width='1.728' /></g><g partID='855800220'><line stroke-linecap='round' stroke='#f28a00' x1='126.271' y1='25.4366' x2='120.82' y2='22.5166' stroke-width='1.728' /></g><g partID='855781070'><line stroke-linecap='round' stroke='#f28a00' x1='104.684' y1='83.7649' x2='14.6088' y2='52.1059' stroke-width='1.728' /></g><g partID='855780520'><line stroke-linecap='round' stroke='#f28a00' x1='110.873' y1='89.9673' x2='104.684' y2='83.7649' stroke-width='1.728' /></g><g partID='855796170'><line stroke-linecap='round' stroke='#f28a00' x1='39.8644' y1='36.8806' x2='14.6442' y2='43.4153' stroke-width='1.728' /></g><g partID='855795780'><line stroke-linecap='round' stroke='#f28a00' x1='54.353' y1='26.9317' x2='39.8644' y2='36.8806' stroke-width='1.728' /></g><g partID='855794480'><line stroke-linecap='round' stroke='#f28a00' x1='34.3579' y1='31.5314' x2='14.6601' y2='35.6311' stroke-width='1.728' /></g><g partID='855793510'><line stroke-linecap='round' stroke='#f28a00' x1='40.0147' y1='27.0151' x2='34.3579' y2='31.5314' stroke-width='1.728' /></g><g partID='855809140'><g transform='translate(202.502,66.3985)' ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="black" cy="4.71811" cx="4.71811" stroke-width="0" r="3.11811" id="nonconn0" stroke="#f9a435"/>
+</g>
+</g></g><g partID='855809170'><g transform='translate(20.7018,42.9985)' ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="black" cy="4.71811" cx="4.71811" stroke-width="0" r="3.11811" id="nonconn0" stroke="#f9a435"/>
+</g>
+</g></g><g partID='855809200'><g transform='translate(20.7018,91.5985)' ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="black" cy="4.71811" cx="4.71811" stroke-width="0" r="3.11811" id="nonconn0" stroke="#f9a435"/>
+</g>
+</g></g><g partID='855768702'><g transform='translate(194.62,44.1166)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="10.8" cx="3.6" stroke-width="1.2" id="connector47pad" r="1.94" stroke="#F7BD13"/>
+  <rect xmlns="http://www.w3.org/2000/svg" fill="none" x="1.659" width="3.881" stroke-width="1.2" y="8.86" stroke="#F7BD13" height="3.879"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="18" cx="3.6" stroke-width="1.2" id="connector48pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="25.2" cx="3.6" stroke-width="1.2" id="connector49pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="32.4" cx="3.6" stroke-width="1.2" id="connector50pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="39.6" cx="3.6" stroke-width="1.2" id="connector51pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="46.8" cx="3.6" stroke-width="1.2" id="connector52pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="54" cx="3.6" stroke-width="1.2" id="connector53pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="61.2" cx="3.6" stroke-width="1.2" id="connector54pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="68.4" cx="3.6" stroke-width="1.2" id="connector55pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="75.6" cx="3.6" stroke-width="1.2" id="connector56pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="82.8" cx="3.6" stroke-width="1.2" id="connector57pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="90" cx="3.6" stroke-width="1.2" id="connector58pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="97.2" cx="3.6" stroke-width="1.2" id="connector59pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="104.4" cx="3.6" stroke-width="1.2" id="connector60pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="111.6" cx="3.6" stroke-width="1.2" id="connector61pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="118.8" cx="3.6" stroke-width="1.2" id="connector62pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="126" cx="3.6" stroke-width="1.2" id="connector63pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="10.8" cx="46.8" stroke-width="1.2" id="connector64pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="18" cx="46.8" stroke-width="1.2" id="connector65pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="25.2" cx="46.8" stroke-width="1.2" id="connector66pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="32.4" cx="46.8" stroke-width="1.2" id="connector67pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="39.6" cx="46.8" stroke-width="1.2" id="connector68pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="46.8" cx="46.8" stroke-width="1.2" id="connector69pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="68.4" cx="46.8" stroke-width="1.2" id="connector72pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="75.6" cx="46.8" stroke-width="1.2" id="connector73pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="61.2" cx="46.8" stroke-width="1.2" id="connector81pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="54" cx="46.8" stroke-width="1.2" id="connector80pad_1_" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="82.8" cx="46.8" stroke-width="1.2" id="connector74pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="90" cx="46.8" stroke-width="1.2" id="connector75pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="97.2" cx="46.8" stroke-width="1.2" id="connector76pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="104.4" cx="46.8" stroke-width="1.2" id="connector77pad" r="1.94" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="111.6" cx="46.8" stroke-width="1.2" id="connector78pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="118.8" cx="46.8" stroke-width="1.2" id="connector79pad" r="1.941" stroke="#F7BD13"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="126" cx="46.8" stroke-width="1.2" id="connector80pad" r="1.941" stroke="#F7BD13"/>
+ </g>
+</g>
+</g></g></g><g partID='855797932'><g transform='translate(119.62,30.4366)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08)">
+ <g  id="copper1" gorn="0.1">
+  <g  id="copper0" gorn="0.1.0">
+   <rect  stroke-opacity="1" fill="none" width="4.32" x="12.24" stroke-width="1.44" id="square" y="6.84" gorn="0.1.0.0" stroke="#f7bd13" height="4.32"/>
+   <circle  stroke-opacity="1" fill="none" cy="9" cx="14.4" stroke-width="1.44" id="connector0pin" r="2.16" gorn="0.1.0.1" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="23.4" cx="14.4" stroke-width="1.44" id="connector1pin" r="2.16" gorn="0.1.0.2" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="37.8" cx="14.4" stroke-width="1.44" id="connector2pin" r="2.16" gorn="0.1.0.3" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="52.2" cx="14.4" stroke-width="1.44" id="connector3pin" r="2.16" gorn="0.1.0.4" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="66.6" cx="14.4" stroke-width="1.44" id="connector4pin" r="2.16" gorn="0.1.0.5" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="81" cx="14.4" stroke-width="1.44" id="connector5pin" r="2.16" gorn="0.1.0.6" stroke="#f7bd13"/>
+  </g>
+ </g>
+</g>
+</g></g></g><g partID='855793432'><g transform='translate(18.8201,30.4366)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08001)">
+ <g  id="copper1" gorn="0.1">
+  <g  id="copper0" gorn="0.1.0">
+   <rect  stroke-opacity="1" fill="none" width="4.32" x="12.24" stroke-width="1.44" id="square" y="6.84" gorn="0.1.0.0" stroke="#f7bd13" height="4.32"/>
+   <circle  stroke-opacity="1" fill="none" cy="9" cx="14.4" stroke-width="1.44" id="connector0pin" r="2.16" gorn="0.1.0.1" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="23.4" cx="14.4" stroke-width="1.44" id="connector1pin" r="2.16" gorn="0.1.0.2" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="37.8" cx="14.4" stroke-width="1.44" id="connector2pin" r="2.16" gorn="0.1.0.3" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="52.2" cx="14.4" stroke-width="1.44" id="connector3pin" r="2.16" gorn="0.1.0.4" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="66.6" cx="14.4" stroke-width="1.44" id="connector4pin" r="2.16" gorn="0.1.0.5" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="81" cx="14.4" stroke-width="1.44" id="connector5pin" r="2.16" gorn="0.1.0.6" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="95.4" cx="14.4" stroke-width="1.44" id="connector6pin" r="2.16" gorn="0.1.0.7" stroke="#f7bd13"/>
+  </g>
+ </g>
+</g>
+</g></g></g><g partID='855768762'><g transform='translate(1.73708,95.57)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="28.2376" stroke-width="1.224" id="connector6pad" r="2.052" stroke="#F7BD13" connectorname="5"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#F7BD13" d="m25.5736,8.84919,5.32801,0,0,5.32799,-5.32801,0,0,-5.32799zM26.7976,11.5132a1.44,1.44,0,1,0,2.88,0,1.44,1.44,0,1,0,-2.88,0z" stroke-width="0" stroke="none"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="36.0896" stroke-width="1.224" id="connector5pad" r="2.052" stroke="#F7BD13" connectorname="4"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="43.9416" stroke-width="1.224" id="connector4pad" r="2.052" stroke="#F7BD13" connectorname="3"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="51.7936" stroke-width="1.224" id="connector3pad" r="2.052" stroke="#F7BD13" connectorname="2"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="59.6456" stroke-width="1.224" id="connector1pad" r="2.052" stroke="#F7BD13" connectorname="1"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="32.1778" stroke-width="1.224" id="connector10pad" r="2.052" stroke="#F7BD13" connectorname="9"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="40.0298" stroke-width="1.224" id="connector9pad" r="2.052" stroke="#F7BD13" connectorname="8"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="47.8534" stroke-width="1.224" id="connector8pad" r="2.052" stroke="#F7BD13" connectorname="7"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="55.7054" stroke-width="1.224" id="connector7pad" r="2.052" stroke="#F7BD13" connectorname="6"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="7.48799" cx="8.50848" stroke-width="2.52" id="connector0pad" r="5.94001" stroke="#F7BD13" connectorname="G1"/>
+ <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="7.48799" cx="79.3747" stroke-width="2.52" id="connector2pad" r="5.94001" stroke="#F7BD13" connectorname="G2"/>
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="28.2376" stroke-width="1.224" id="connector6pad" r="2.052" stroke="#F7BD13" connectorname="5"/>
+  <path xmlns="http://www.w3.org/2000/svg" fill="#F7BD13" d="m25.5736,8.84919,5.32801,0,0,5.32799,-5.32801,0,0,-5.32799zM26.7976,11.5132a1.44,1.44,0,1,0,2.88,0,1.44,1.44,0,1,0,-2.88,0z" stroke-width="0" stroke="none"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="36.0896" stroke-width="1.224" id="connector5pad" r="2.052" stroke="#F7BD13" connectorname="4"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="43.9416" stroke-width="1.224" id="connector4pad" r="2.052" stroke="#F7BD13" connectorname="3"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="51.7936" stroke-width="1.224" id="connector3pad" r="2.052" stroke="#F7BD13" connectorname="2"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="11.5132" cx="59.6456" stroke-width="1.224" id="connector1pad" r="2.052" stroke="#F7BD13" connectorname="1"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="32.1778" stroke-width="1.224" id="connector10pad" r="2.052" stroke="#F7BD13" connectorname="9"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="40.0298" stroke-width="1.224" id="connector9pad" r="2.052" stroke="#F7BD13" connectorname="8"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="47.8534" stroke-width="1.224" id="connector8pad" r="2.052" stroke="#F7BD13" connectorname="7"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="3.4628" cx="55.7054" stroke-width="1.224" id="connector7pad" r="2.052" stroke="#F7BD13" connectorname="6"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="7.48799" cx="8.50848" stroke-width="2.52" id="connector0pad" r="5.94001" stroke="#F7BD13" connectorname="G1"/>
+  <circle xmlns="http://www.w3.org/2000/svg" fill="none" cy="7.48799" cx="79.3747" stroke-width="2.52" id="connector2pad" r="5.94001" stroke="#F7BD13" connectorname="G2"/>
+ </g>
+</g>
+</g></g></g><g partID='855768802'><g transform='translate(213.7,1.1778)' ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08001)">
+ <g  id="copper1" gorn="0.1">
+  <g  id="copper0" gorn="0.1.0">
+   <rect  stroke-opacity="1" fill="none" width="4.32" x="12.24" stroke-width="1.44" id="square" y="6.84" gorn="0.1.0.0" stroke="#f7bd13" height="4.32"/>
+   <circle  stroke-opacity="1" fill="none" cy="9" cx="14.4" stroke-width="1.44" id="connector0pin" r="2.16" gorn="0.1.0.1" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="23.4" cx="14.4" stroke-width="1.44" id="connector1pin" r="2.16" gorn="0.1.0.2" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="37.8" cx="14.4" stroke-width="1.44" id="connector2pin" r="2.16" gorn="0.1.0.3" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="52.2" cx="14.4" stroke-width="1.44" id="connector3pin" r="2.16" gorn="0.1.0.4" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="66.6" cx="14.4" stroke-width="1.44" id="connector4pin" r="2.16" gorn="0.1.0.5" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="81" cx="14.4" stroke-width="1.44" id="connector5pin" r="2.16" gorn="0.1.0.6" stroke="#f7bd13"/>
+   <circle  stroke-opacity="1" fill="none" cy="95.4" cx="14.4" stroke-width="1.44" id="connector6pin" r="2.16" gorn="0.1.0.7" stroke="#f7bd13"/>
+  </g>
+ </g>
+</g>
+</g></g><g partID='855793000'><line stroke-linecap='round' stroke='#f2c600' x1='9.2199' y1='62.1453' x2='5.94854' y2='56.7703' stroke-width='0.864' /></g><g partID='855788290'><line stroke-linecap='round' stroke='#f2c600' x1='9.2199' y1='71.167' x2='9.2199' y2='62.1453' stroke-width='0.864' /></g><g partID='855788160'><line stroke-linecap='round' stroke='#f2c600' x1='57.7783' y1='99.903' x2='9.22014' y2='71.1676' stroke-width='0.864' /></g><g partID='855788050'><line stroke-linecap='round' stroke='#f2c600' x1='155.006' y1='99.903' x2='57.7783' y2='99.903' stroke-width='0.864' /></g><g partID='855787940'><line stroke-linecap='round' stroke='#f2c600' x1='161.381' y1='91.9615' x2='155.006' y2='99.9027' stroke-width='0.864' /></g><g partID='855787710'><line stroke-linecap='round' stroke='#f2c600' x1='63.2477' y1='96.3302' x2='14.4959' y2='68.0549' stroke-width='1.728' /></g><g partID='855787600'><line stroke-linecap='round' stroke='#f2c600' x1='142.392' y1='96.3302' x2='63.2477' y2='96.3302' stroke-width='1.728' /></g><g partID='855787490'><line stroke-linecap='round' stroke='#f2c600' x1='146.871' y1='91.8629' x2='142.392' y2='96.3306' stroke-width='1.728' /></g><g partID='855771230'><line stroke-linecap='round' stroke='#f2c600' x1='158.656' y1='80.0734' x2='148.767' y2='89.9689' stroke-width='1.728' /></g><g partID='855774690'><line stroke-linecap='round' stroke='#f2c600' x1='196.362' y1='63.8806' x2='158.656' y2='80.0734' stroke-width='1.728' /></g><g partID='855769240'><line stroke-linecap='round' stroke='#f2c600' x1='217.098' y1='39.0039' x2='196.362' y2='63.8805' stroke-width='1.728' /></g><g partID='855775670'><line stroke-linecap='round' stroke='#f2c600' x1='165.827' y1='85.5094' x2='162.963' y2='89.8019' stroke-width='1.728' /></g><g partID='855778670'><line stroke-linecap='round' stroke='#f2c600' x1='198.213' y1='69.3166' x2='165.827' y2='85.5094' stroke-width='1.728' /></g><g partID='855769400'><line stroke-linecap='round' stroke='#f2c600' x1='216.928' y1='53.2362' x2='198.213' y2='69.3166' stroke-width='1.728' /></g><g partID='855771160'><line stroke-linecap='round' stroke='#f2c600' x1='120.834' y1='60.2949' x2='112.601' y2='48.8066' stroke-width='1.728' /></g><g partID='855789290'><line stroke-linecap='round' stroke='#f2c600' x1='192.777' y1='60.2949' x2='120.835' y2='60.2949' stroke-width='1.728' /></g><g partID='855769540'><line stroke-linecap='round' stroke='#f2c600' x1='217.205' y1='24.6852' x2='192.777' y2='60.2949' stroke-width='1.728' /></g><g partID='855770070'><line stroke-linecap='round' stroke='#f2c600' x1='126.27' y1='56.7094' x2='119.861' y2='48.7605' stroke-width='1.728' /></g><g partID='855770000'><line stroke-linecap='round' stroke='#f2c600' x1='189.191' y1='56.7094' x2='126.271' y2='56.7094' stroke-width='1.728' /></g><g partID='855769930'><line stroke-linecap='round' stroke='#f2c600' x1='207.158' y1='26.0269' x2='189.191' y2='56.7094' stroke-width='1.728' /></g><g partID='855769860'><line stroke-linecap='round' stroke='#f2c600' x1='217.242' y1='10.3098' x2='207.158' y2='26.0269' stroke-width='1.728' /></g><g partID='855798650'><line stroke-linecap='round' stroke='#f2c600' x1='63.2199' y1='54.9166' x2='122.62' y2='83.7166' stroke-width='1.728' /></g><g partID='855798540'><line stroke-linecap='round' stroke='#f2c600' x1='122.62' y1='83.7166' x2='125.621' y2='89.7181' stroke-width='1.728' /></g><g partID='855798760'><line stroke-linecap='round' stroke='#f2c600' x1='63.2199' y1='44.1166' x2='63.2199' y2='54.9166' stroke-width='1.728' /></g><g partID='855798100'><line stroke-linecap='round' stroke='#f2c600' x1='111.785' y1='26.605' x2='63.2199' y2='44.1166' stroke-width='1.728' /></g><g partID='855798320'><line stroke-linecap='round' stroke='#f2c600' x1='59.6199' y1='56.7166' x2='117.22' y2='85.5166' stroke-width='1.728' /></g><g partID='855798430'><line stroke-linecap='round' stroke='#f2c600' x1='117.22' y1='85.5166' x2='118.596' y2='89.6444' stroke-width='1.728' /></g><g partID='855798210'><line stroke-linecap='round' stroke='#f2c600' x1='59.6199' y1='42.3166' x2='59.6199' y2='56.7166' stroke-width='1.728' /></g><g partID='855797990'><line stroke-linecap='round' stroke='#f2c600' x1='97.4096' y1='26.6675' x2='59.6199' y2='42.3166' stroke-width='1.728' /></g><g partID='855797320'><line stroke-linecap='round' stroke='#f2c600' x1='108.22' y1='85.5166' x2='56.0199' y2='58.5166' stroke-width='1.728' /></g><g partID='855797470'><line stroke-linecap='round' stroke='#f2c600' x1='56.0199' y1='58.5166' x2='56.0199' y2='40.5166' stroke-width='1.728' /></g><g partID='855797170'><line stroke-linecap='round' stroke='#f2c600' x1='111.076' y1='89.8008' x2='108.22' y2='85.5166' stroke-width='1.728' /></g><g partID='855797620'><line stroke-linecap='round' stroke='#f2c600' x1='56.0199' y1='40.5166' x2='83.0565' y2='26.7693' stroke-width='1.728' /></g><g partID='855796740'><line stroke-linecap='round' stroke='#f2c600' x1='52.4199' y1='38.7166' x2='52.4199' y2='60.3166' stroke-width='1.728' /></g><g partID='855796630'><line stroke-linecap='round' stroke='#f2c600' x1='52.4199' y1='60.3166' x2='99.2199' y2='85.5166' stroke-width='1.728' /></g><g partID='855796410'><line stroke-linecap='round' stroke='#f2c600' x1='68.771' y1='26.9574' x2='52.4199' y2='38.7166' stroke-width='1.728' /></g><g partID='855796520'><line stroke-linecap='round' stroke='#f2c600' x1='99.2199' y1='85.5166' x2='103.672' y2='89.9684' stroke-width='1.728' /></g><g partID='855794940'><line stroke-linecap='round' stroke='#f2c600' x1='48.8199' y1='36.9166' x2='48.8199' y2='62.1166' stroke-width='1.728' /></g><g partID='855795510'><line stroke-linecap='round' stroke='#f2c600' x1='48.8199' y1='62.1166' x2='92.0199' y2='85.5166' stroke-width='1.728' /></g><g partID='855794790'><line stroke-linecap='round' stroke='#f2c600' x1='54.7793' y1='27.3392' x2='48.8199' y2='36.9166' stroke-width='1.728' /></g><g partID='855795090'><line stroke-linecap='round' stroke='#f2c600' x1='92.0199' y1='85.5166' x2='96.4723' y2='89.9691' stroke-width='1.728' /></g><g partID='855794100'><line stroke-linecap='round' stroke='#f2c600' x1='45.2199' y1='63.9166' x2='41.2946' y2='27.5483' stroke-width='1.728' /></g><g partID='855793950'><line stroke-linecap='round' stroke='#f2c600' x1='86.6199' y1='87.3166' x2='45.2199' y2='63.9166' stroke-width='1.728' /></g><g partID='855793800'><line stroke-linecap='round' stroke='#f2c600' x1='89.2723' y1='89.9691' x2='86.6199' y2='87.3166' stroke-width='1.728' /></g><g partID='855794660'><line stroke-linecap='round' stroke='#f2c600' x1='41.62' y1='65.7166' x2='67.6395' y2='90.0016' stroke-width='1.728' /></g><g partID='855794590'><line stroke-linecap='round' stroke='#f2c600' x1='27.2466' y1='27.4646' x2='41.62' y2='65.7166' stroke-width='1.728' /></g><g partID='855809141'><g transform='translate(202.502,66.3985)' ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="black" cy="4.71811" cx="4.71811" stroke-width="0" r="3.11811" id="nonconn0" stroke="#fdde68"/>
+</g>
+</g></g><g partID='855809171'><g transform='translate(20.7018,42.9985)' ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="black" cy="4.71811" cx="4.71811" stroke-width="0" r="3.11811" id="nonconn0" stroke="#fdde68"/>
+</g>
+</g></g><g partID='855809201'><g transform='translate(20.7018,91.5985)' ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" fill="black" cy="4.71811" cx="4.71811" stroke-width="0" r="3.11811" id="nonconn0" stroke="#fdde68"/>
+</g>
+</g></g><g partID='855768701'><g transform='translate(194.62,44.1166)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g  id="silkscreen">
+ <path  fill="none" d="M0.288,136.522l49.824,0L50.112,0.288L0.288,0.288L0.288,136.522" stroke-width="0.576" stroke="#FFFFFF"/>
+ <g >
+  <title >element:C11</title>
+  <g >
+   <title >package:C0402</title>
+  </g>
+ </g>
+ <g >
+  <title >element:D2</title>
+  <g >
+   <title >package:MINIMELF</title>
+  </g>
+ </g>
+ <g >
+  <title >element:F1</title>
+  <g >
+   <title >package:L1812</title>
+  </g>
+ </g>
+ <g >
+  <title >element:J5</title>
+  <g >
+   <title >package:HEAD17-NOSS</title>
+  </g>
+ </g>
+ <g >
+  <title >element:J6</title>
+  <g >
+   <title >package:HEAD17-NOSS-1</title>
+  </g>
+ </g>
+ <g >
+  <title >element:R2</title>
+  <g >
+   <title >package:R0402</title>
+  </g>
+ </g>
+ <g >
+  <title >element:T1</title>
+  <g >
+   <title >package:SOT-23</title>
+  </g>
+ </g>
+ <g >
+  <title >element:T2</title>
+  <g >
+   <title >package:SOT-23</title>
+  </g>
+ </g>
+ <g >
+  <title >element:U1</title>
+  <g >
+   <title >package:QFN44ML7X7</title>
+  </g>
+ </g>
+ <g >
+  <title >element:U2</title>
+  <g >
+   <title >package:SOT223</title>
+  </g>
+ </g>
+ <g >
+  <title >element:U4</title>
+  <g >
+   <title >package:SOT23-DBV</title>
+  </g>
+ </g>
+ <g >
+  <title >element:Z1</title>
+  <g >
+   <title >package:CT/CN0603</title>
+  </g>
+ </g>
+ <g >
+  <title >element:Z2</title>
+  <g >
+   <title >package:CT/CN0603</title>
+  </g>
+ </g>
+ <g >
+  <title >layer 21</title>
+  <g >
+   <title >text:TX1</title>
+   <g transform="matrix(1, 0, 0, 1, 1.4402, 22.6833)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">TX1</text>
+   </g>
+  </g>
+  <g >
+   <title >text:RX1</title>
+   <g transform="matrix(1, 0, 0, 1, 1.4402, 29.8826)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">RX1</text>
+   </g>
+  </g>
+  <g >
+   <title >text:RST</title>
+   <g transform="matrix(1, 0, 0, 1, 1.4402, 37.0818)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">RST</text>
+   </g>
+  </g>
+  <g >
+   <title >text:GND</title>
+   <g transform="matrix(1, 0, 0, 1, 1.4402, 44.281)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">GND</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D2</title>
+   <g transform="matrix(1, 0, 0, 1, 1.7996, 51.8435)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D2</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D3</title>
+   <g transform="matrix(1, 0, 0, 1, 1.7996, 59.0427)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D3</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D4</title>
+   <g transform="matrix(1, 0, 0, 1, 1.7996, 65.8826)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D4</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D5</title>
+   <g transform="matrix(1, 0, 0, 1, 1.7996, 73.0828)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D5</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D6</title>
+   <g transform="matrix(1, 0, 0, 1, 1.7996, 80.282)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D6</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D7</title>
+   <g transform="matrix(1, 0, 0, 1, 2.1609, 87.4851)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D7</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D8</title>
+   <g transform="matrix(1, 0, 0, 1, 1.7996, 94.6843)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D8</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D9</title>
+   <g transform="matrix(1, 0, 0, 1, 1.7996, 101.883)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D9</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D10</title>
+   <g transform="matrix(1, 0, 0, 1, 1.0798, 109.083)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D10</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D11</title>
+   <g transform="matrix(1, 0, 0, 1, 1.0798, 116.282)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D11</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D12</title>
+   <g transform="matrix(1, 0, 0, 1, 1.0798, 123.485)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D12</text>
+   </g>
+  </g>
+  <g >
+   <title >text:D13</title>
+   <g transform="matrix(1, 0, 0, 1, 43.9207, 123.485)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">D13</text>
+   </g>
+  </g>
+  <g >
+   <title >text:3V3</title>
+   <g transform="matrix(1, 0, 0, 1, 43.9207, 116.645)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">3V3</text>
+   </g>
+  </g>
+  <g >
+   <title >text:REF</title>
+   <g transform="matrix(1, 0, 0, 1, 44.282, 109.442)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">REF</text>
+   </g>
+  </g>
+  <g >
+   <title >text:A0</title>
+   <g transform="matrix(1, 0, 0, 1, 45.0007, 101.883)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">A0</text>
+   </g>
+  </g>
+  <g >
+   <title >text:A1</title>
+   <g transform="matrix(1, 0, 0, 1, 45.0007, 94.6843)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">A1</text>
+   </g>
+  </g>
+  <g >
+   <title >text:A2</title>
+   <g transform="matrix(1, 0, 0, 1, 45.0007, 87.4851)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">A2</text>
+   </g>
+  </g>
+  <g >
+   <title >text:A3</title>
+   <g transform="matrix(1, 0, 0, 1, 45.0007, 80.282)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">A3</text>
+   </g>
+  </g>
+  <g >
+   <title >text:A4</title>
+   <g transform="matrix(1, 0, 0, 1, 44.6414, 73.0828)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">A4</text>
+   </g>
+  </g>
+  <g >
+   <title >text:A5</title>
+   <g transform="matrix(1, 0, 0, 1, 45.0007, 65.8826)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">A5</text>
+   </g>
+  </g>
+  <g >
+   <title >text:NC</title>
+   <g transform="matrix(1, 0, 0, 1, 45.0007, 58.6833)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">NC</text>
+   </g>
+  </g>
+  <g >
+   <title >text:NC</title>
+   <g transform="matrix(1, 0, 0, 1, 45.3601, 51.4841)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">NC</text>
+   </g>
+  </g>
+  <g >
+   <title >text:5V</title>
+   <g transform="matrix(1, 0, 0, 1, 45.0007, 44.281)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">5V</text>
+   </g>
+  </g>
+  <g >
+   <title >text:RST</title>
+   <g transform="matrix(1, 0, 0, 1, 44.282, 37.0818)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">RST</text>
+   </g>
+  </g>
+  <g >
+   <title >text:GND</title>
+   <g transform="matrix(1, 0, 0, 1, 43.9207, 29.8826)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">GND</text>
+   </g>
+  </g>
+  <g >
+   <title >text:VIN</title>
+   <g transform="matrix(1, 0, 0, 1, 44.282, 22.6833)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">VIN</text>
+   </g>
+  </g>
+  <g >
+   <title >text:SS</title>
+   <g transform="matrix(1, 0, 0, 1, 1.7996, 15.4841)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">SS</text>
+   </g>
+  </g>
+  <g >
+   <title >text:MOSI</title>
+   <g transform="matrix(1, 0, 0, 1, 0.7205, 8.281)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">MOSI</text>
+   </g>
+  </g>
+  <g >
+   <title >text:SCK</title>
+   <g transform="matrix(1, 0, 0, 1, 44.282, 8.281)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">SCK</text>
+   </g>
+  </g>
+  <g >
+   <title >text:MISO</title>
+   <g transform="matrix(1, 0, 0, 1, 43.5613, 15.4841)">
+    <text  fill="#FFFFFF" font-size="2.3386" font-family="'OCRA'">MISO</text>
+   </g>
+  </g>
+  <g >
+   <title >element:C1</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C2</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C3</title>
+   <g >
+    <title >package:SMC_B</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C4</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C5</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C6</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C7</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C9</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C10</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C11</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C12</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C13</title>
+   <g >
+    <title >package:C0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:C14</title>
+   <g >
+    <title >package:SMC_B</title>
+   </g>
+  </g>
+  <g >
+   <title >element:D2</title>
+   <g >
+    <title >package:MINIMELF</title>
+   </g>
+  </g>
+  <g >
+   <title >element:F1</title>
+   <g >
+    <title >package:L1812</title>
+   </g>
+  </g>
+  <g >
+   <title >element:J5</title>
+   <g >
+    <title >package:HEAD17-NOSS</title>
+   </g>
+  </g>
+  <g >
+   <title >element:J6</title>
+   <g >
+    <title >package:HEAD17-NOSS-1</title>
+   </g>
+  </g>
+  <g >
+   <title >element:ON</title>
+   <g >
+    <title >package:CHIPLED_0805</title>
+   </g>
+  </g>
+  <g >
+   <title >element:R1</title>
+   <g >
+    <title >package:R0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:R2</title>
+   <g >
+    <title >package:R0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:R4</title>
+   <g >
+    <title >package:R0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:R5</title>
+   <g >
+    <title >package:R0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:R6</title>
+   <g >
+    <title >package:R0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:R7</title>
+   <g >
+    <title >package:R0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:R8</title>
+   <g >
+    <title >package:R0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:R9</title>
+   <g >
+    <title >package:R0402</title>
+   </g>
+  </g>
+  <g >
+   <title >element:RP3</title>
+   <g >
+    <title >package:CAY16</title>
+   </g>
+  </g>
+  <g >
+   <title >element:T1</title>
+   <g >
+    <title >package:SOT-23</title>
+   </g>
+  </g>
+  <g >
+   <title >element:T2</title>
+   <g >
+    <title >package:SOT-23</title>
+   </g>
+  </g>
+  <g >
+   <title >element:U$37</title>
+   <g >
+    <title >package:FIDUCIA-MOUNT</title>
+   </g>
+  </g>
+  <g >
+   <title >element:U$53</title>
+   <g >
+    <title >package:FIDUCIAL-1X2</title>
+   </g>
+  </g>
+  <g >
+   <title >element:U1</title>
+   <g >
+    <title >package:QFN44ML7X7</title>
+   </g>
+  </g>
+  <g >
+   <title >element:U2</title>
+   <g >
+    <title >package:SOT223</title>
+   </g>
+  </g>
+  <g >
+   <title >element:U4</title>
+   <g >
+    <title >package:SOT23-DBV</title>
+   </g>
+  </g>
+  <g >
+   <title >element:Z1</title>
+   <g >
+    <title >package:CT/CN0603</title>
+   </g>
+  </g>
+  <g >
+   <title >element:Z2</title>
+   <g >
+    <title >package:CT/CN0603</title>
+   </g>
+  </g>
+ </g>
+</g>
+</g></g></g><g partID='855791510'><g transform='translate(183.503,12.7313)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B5</text>
+</g>
+</g></g></g><g partID='855806420'><g transform='translate(116.313,71.6959)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="2.83465" x="14.1732" stroke-width="0" id="label" font-family="OCRA" y="2.55118">ATmega32U4</text>
+</g>
+</g></g><g partID='855791430'><g transform='translate(198.385,12.7638)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B4</text>
+</g>
+</g></g></g><g partID='855790060'><g transform='translate(62.3928,64.6543)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="3.27074" x="4.90612" stroke-width="0" id="label" y="2.94367" font-family="OCRA">USB</text>
+</g>
+</g></g></g><g partID='855801770'><g transform='translate(24.8041,13.4321)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.36099" x="6.54149" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B10</text>
+</g>
+</g></g></g><g partID='855792090'><g transform='translate(153.628,12.7067)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B9</text>
+</g>
+</g></g></g><g partID='855791990'><g transform='translate(139.32,12.7537)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B8</text>
+</g>
+</g></g></g><g partID='855791810'><g transform='translate(125.14,12.7348)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B7</text>
+</g>
+</g></g></g><g partID='855791550'><g transform='translate(169.547,12.7042)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B6</text>
+</g>
+</g></g></g><g partID='855768661'><g transform='translate(0,1.30436)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <rect xmlns="http://www.w3.org/2000/svg" fill="none" width="242.353" x="0.288" stroke-width="0.576" y="0.288" stroke="#000000" height="101.471"/>
+</g>
+</g></g><g partID='855797931'><g transform='translate(119.62,30.4366)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08)">
+ <g  id="silkscreen" gorn="0.0">
+  <line  x2="10.44" y1="1.44" x1="10.44" stroke-width="0.72" id="vertical-left" y2="88.56" gorn="0.0.0" stroke="#000000"/>
+  <line  x2="38.9395" y1="88.56" style="stroke-miterlimit:4;stroke-dasharray:none" x1="10.44" stroke-width="0.72" id="bottom" y2="88.56" gorn="0.0.1" stroke="#000000"/>
+  <line  x2="38.9395" y1="88.56" x1="38.9395" stroke-width="0.72" id="vertical-right" y2="1.44" gorn="0.0.2" stroke="#000000"/>
+  <line  x2="10.44" y1="1.44" style="stroke-miterlimit:4;stroke-dasharray:none" x1="38.9395" stroke-width="0.72" id="top" y2="1.44" gorn="0.0.3" stroke="#000000"/>
+  <line  x2="28.685" y1="88.56" x1="28.685" stroke-width="0.36" id="mid-vertical" y2="1.44" gorn="0.0.4" stroke="#000000"/>
+ </g>
+</g>
+</g></g></g><g partID='855793431'><g transform='translate(18.8201,30.4366)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08001)">
+ <g  id="silkscreen" gorn="0.0">
+  <line  x2="10.44" y1="1.44" x1="10.44" stroke-width="0.72" id="vertical-left" y2="102.96" gorn="0.0.0" stroke="#000000"/>
+  <line  x2="38.9395" y1="102.96" style="stroke-miterlimit:4;stroke-dasharray:none" x1="10.44" stroke-width="0.72" id="bottom" y2="102.96" gorn="0.0.1" stroke="#000000"/>
+  <line  x2="38.9395" y1="102.96" x1="38.9395" stroke-width="0.72" id="vertical-right" y2="1.44" gorn="0.0.2" stroke="#000000"/>
+  <line  x2="10.44" y1="1.44" style="stroke-miterlimit:4;stroke-dasharray:none" x1="38.9395" stroke-width="0.72" id="top" y2="1.44" gorn="0.0.3" stroke="#000000"/>
+  <line  x2="28.685" y1="102.96" x1="28.685" stroke-width="0.36" id="mid-vertical" y2="1.44" gorn="0.0.4" stroke="#000000"/>
+ </g>
+</g>
+</g></g></g><g partID='855768761'><g transform='translate(1.73708,95.57)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" x2="0.288" y1="15.425" stroke-linecap="round" x1="0.288" stroke-width="0.576001" y2="0.288" stroke="#f0f0f0" class="other"/>
+ <line xmlns="http://www.w3.org/2000/svg" x2="87.5952" y1="15.425" stroke-linecap="round" x1="87.5952" stroke-width="0.576001" y2="0.288" stroke="#f0f0f0" class="other"/>
+ <line xmlns="http://www.w3.org/2000/svg" x2="87.5952" y1="15.425" stroke-linecap="round" x1="0.288" stroke-width="0.576001" y2="15.425" stroke="#f0f0f0" class="other"/>
+</g>
+</g></g></g><g partID='855768801'><g transform='translate(213.7,1.1778)' ><g transform="matrix(1, 0, 0, 1, -10.08, -1.08001)">
+ <g  id="silkscreen" gorn="0.0">
+  <line  x2="10.44" y1="1.44" x1="10.44" stroke-width="0.72" id="vertical-left" y2="102.96" gorn="0.0.0" stroke="#000000"/>
+  <line  x2="38.9395" y1="102.96" style="stroke-miterlimit:4;stroke-dasharray:none" x1="10.44" stroke-width="0.72" id="bottom" y2="102.96" gorn="0.0.1" stroke="#000000"/>
+  <line  x2="38.9395" y1="102.96" x1="38.9395" stroke-width="0.72" id="vertical-right" y2="1.44" gorn="0.0.2" stroke="#000000"/>
+  <line  x2="10.44" y1="1.44" style="stroke-miterlimit:4;stroke-dasharray:none" x1="38.9395" stroke-width="0.72" id="top" y2="1.44" gorn="0.0.3" stroke="#000000"/>
+  <line  x2="28.685" y1="102.96" x1="28.685" stroke-width="0.36" id="mid-vertical" y2="1.44" gorn="0.0.4" stroke="#000000"/>
+ </g>
+</g>
+</g></g><g partID='855791050'><g transform='translate(231.155,21.0651)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B3</text>
+</g>
+</g></g><g partID='855791030'><g transform='translate(231.254,6.56868)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B2</text>
+</g>
+</g></g><g partID='855790880'><g transform='translate(230.499,48.7004)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.36099" x="6.54149" stroke-width="0" id="label" y="3.9249" font-family="OCRA">GND</text>
+</g>
+</g></g><g partID='855790870'><g transform='translate(230.503,63.9622)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.36099" x="6.54149" stroke-width="0" id="label" y="3.9249" font-family="OCRA">OPA</text>
+</g>
+</g></g><g partID='855790860'><g transform='translate(230.513,78.4758)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.36099" x="6.54149" stroke-width="0" id="label" y="3.9249" font-family="OCRA">OPB</text>
+</g>
+</g></g><g partID='855790850'><g transform='translate(231.148,34.8686)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">5v</text>
+</g>
+</g></g><g partID='855790830'><g transform='translate(231.254,93.3158)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="4.361" x="4.361" stroke-width="0" id="label" y="3.9249" font-family="OCRA">B1</text>
+</g>
+</g></g><g partID='855807970'><g transform='translate(39.1211,12.1955)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="2.6166" x="2.6166" stroke-width="0" id="label" font-family="OCRA" y="2.35494">Up</text>
+</g>
+</g></g></g><g partID='855807960'><g transform='translate(53.2866,13.083)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="2.6166" x="6.54149" stroke-width="0" id="label" font-family="OCRA" y="2.35494">Right</text>
+</g>
+</g></g></g><g partID='855807940'><g transform='translate(67.6261,12.757)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="2.61659" x="5.23318" stroke-width="0" id="label" font-family="OCRA" y="2.35494">Down</text>
+</g>
+</g></g></g><g partID='855807950'><g transform='translate(82.2133,12.6801)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="2.61659" x="5.23318" stroke-width="0" id="label" font-family="OCRA" y="2.35494">Left</text>
+</g>
+</g></g></g><g partID='855807990'><g transform='translate(96.2001,13.3083)' ><g transform='matrix(8.67362e-17,-1,1,8.67362e-17,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="2.6166" x="6.54149" stroke-width="0" id="label" font-family="OCRA" y="2.35494">[SHF]</text>
+</g>
+</g></g></g><g partID='855807980'><g transform='translate(110.836,13.3275)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="2.6166" x="6.54149" stroke-width="0" id="label" font-family="OCRA" y="2.35494">[KYB]</text>
+</g>
+</g></g></g><g partID='855809230'><g transform='translate(12.4299,86.2008)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" display="none" d="M153.359,71.0908l-1.18695,-0.220688c-0.302546,-0.0553102,-0.795912,-0.147678,-1.09846,-0.202435l-10.109,-1.87944c-0.302546,-0.0575226,-0.633854,-0.339605,-0.732859,-0.632196l-3.80036,-8.86291c-0.142147,-0.273786,-0.113939,-0.704099,0.0586287,-0.958526L142.398,49.7239c0.173121,-0.253874,0.458521,-0.669807,0.632747,-0.923681l0.682527,-0.993925c0.173121,-0.253874,0.137722,-0.63828,-0.0807527,-0.858415l-0.852329,-0.852331l-0.790934,-0.790936l-2.47181,-2.47347l-0.792041,-0.790936l-2.4707,-2.47237l-0.792594,-0.791489l-0.852882,-0.852331c-0.219028,-0.219028,-0.60288,-0.253874,-0.856753,-0.0807529l-0.996135,0.681422c-0.253873,0.173121,-0.668699,0.457969,-0.922572,0.633855L123.043,45.1934c-0.25332,0.173674,-0.686398,0.205201,-0.961843,0.070244l-8.59353,-3.51607c-0.290931,-0.0978991,-0.576884,-0.424783,-0.633854,-0.726223l-1.96074,-10.536c-0.0575225,-0.304206,-0.14989,-0.795914,-0.204094,-1.09901l-0.219581,-1.18696c-0.0575225,-0.302547,-0.355644,-0.548124,-0.660403,-0.548124l-1.20631,0l-1.11782,0l-3.4956,0l-1.11782,0l-3.49504,0l-1.11782,0l-1.20465,0c-0.309183,0,-0.606752,0.245577,-0.660956,0.549231l-0.219581,1.1864c-0.0575225,0.3031,-0.14989,0.795361,-0.203541,1.09901l-1.9613,10.536c-0.0575225,0.302547,-0.339604,0.630537,-0.633854,0.726223l-8.59298,3.51607c-0.275444,0.134957,-0.708522,0.103983,-0.961843,-0.070244L75.0259,39.1596c-0.253873,-0.173121,-0.668699,-0.459075,-0.922572,-0.633855l-0.995029,-0.681422c-0.253873,-0.173121,-0.638278,-0.138276,-0.856753,0.0807529l-0.852882,0.852331l-0.792041,0.791489l-2.47236,2.47347l-0.790934,0.790936l-2.47181,2.47237l-0.792041,0.790936l-0.852329,0.852331c-0.219028,0.219028,-0.253873,0.604541,-0.0807527,0.858415l0.680867,0.993925c0.173121,0.253874,0.457968,0.669807,0.633854,0.923681l5.90878,8.60793c0.173121,0.254427,0.200776,0.684741,0.0591818,0.957973l-3.79925,8.86457c-0.102324,0.288719,-0.430866,0.573014,-0.733412,0.63109l-10.1085,1.88055c-0.303099,0.0564164,-0.796465,0.148785,-1.09956,0.201329l-1.18695,0.219582c-0.302546,0.0575226,-0.549229,0.355645,-0.549229,0.662063l0,1.20742l0,1.11782l0,3.4945l0,1.11782l0,3.49229l0,1.11782l0,1.20687c0,0.308631,0.247789,0.6062,0.550335,0.660957l1.1864,0.219028c0.303652,0.0575226,0.795912,0.149891,1.09956,0.205201l9.80593,1.82524c0.302546,0.0564164,0.625557,0.341264,0.718478,0.633855l3.77325,9.43039c0.134957,0.275998,0.103983,0.709077,-0.07135,0.962951l-5.55258,8.09133c-0.173674,0.254427,-0.459074,0.669254,-0.633854,0.921468l-0.68142,0.996137c-0.173121,0.253321,-0.138275,0.63828,0.0807527,0.857308l0.853435,0.852331l0.791487,0.791489l2.47347,2.47403l0.790934,0.790936l2.47181,2.47181l0.792041,0.790936l0.853435,0.852331c0.218475,0.218475,0.603986,0.252768,0.85786,0.0801998l0.993922,-0.680316c0.252767,-0.173121,0.667593,-0.459075,0.921466,-0.633855l7.91598,-5.43036c0.25332,-0.173121,0.679208,-0.188608,0.942484,-0.0337392l1.64437,0.924787c0.26936,0.147125,0.716266,0.380534,0.990604,0.51881l1.70134,0.871689c0.274338,0.139382,0.59403,0.021571,0.711841,-0.264383l0.730093,-1.7644c0.11781,-0.285954,0.311396,-0.7489,0.427547,-1.03375l6.8662,-16.5942c0.118917,-0.283741,0.311396,-0.7489,0.426994,-1.03264l0.486729,-1.17534c0.11781,-0.284295,-0.0016593,-0.648236,-0.264935,-0.808082l-1.08463,-0.66317c-0.200776,-0.123342,-0.472348,-0.334074,-0.685845,-0.524894c-3.91485,-2.50666,-6.51055,-6.89221,-6.51055,-11.884c0,-7.79321,6.31697,-14.1102,14.1091,-14.1102s14.1096,6.31643,14.1096,14.1102c0,4.9923,-2.5957,9.3773,-6.51055,11.884c-0.21405,0.193586,-0.48507,0.403212,-0.685292,0.524894l-1.08463,0.66317c-0.263276,0.159847,-0.380533,0.523788,-0.264382,0.808082l0.486729,1.17534c0.118364,0.285401,0.311396,0.7489,0.426441,1.03264l6.8662,16.5942c0.118917,0.284848,0.311396,0.7489,0.426441,1.03375l0.732306,1.7644c0.11781,0.285954,0.437503,0.403212,0.711841,0.264383l1.70134,-0.871689c0.274338,-0.140488,0.720691,-0.372791,0.990604,-0.51881l1.64326,-0.924787c0.264935,-0.154869,0.69027,-0.141594,0.943037,0.0337392l7.91653,5.43036c0.252767,0.173121,0.669252,0.459075,0.920913,0.633855l0.996688,0.680316c0.252767,0.173121,0.637725,0.138276,0.855647,-0.0801998l0.852329,-0.852331l0.792594,-0.790936l2.47125,-2.47292l0.792041,-0.790936l2.47402,-2.47292l0.790934,-0.791489l0.853435,-0.852331c0.218475,-0.219028,0.252767,-0.603988,0.0801996,-0.857308l-0.681973,-0.996137c-0.173121,-0.252215,-0.458521,-0.667041,-0.633854,-0.920915l-5.55369,-8.09189c-0.173121,-0.253874,-0.206307,-0.6864,-0.0702438,-0.962951l3.7727,-9.43039c0.092921,-0.292591,0.416485,-0.580204,0.719031,-0.633855l9.80593,-1.82524c0.303099,-0.0575226,0.797572,-0.149891,1.10012,-0.204648l1.1853,-0.219028c0.303099,-0.0575226,0.549229,-0.355645,0.549229,-0.660957l0,-1.20687l0,-1.11782l0,-3.49229l0,-1.11782l0.0011062,-3.4945l0,-1.11782l0,-1.20742C153.909,71.4448,153.661,71.1478,153.359,71.0908" id="path3024"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M19.2435,8.8524c-0.173121,-0.797573,-0.497238,-1.53873,-0.941931,-2.19305l1.34791,-1.96351l-0.579097,-0.579098l-0.579097,-0.577992l-1.9895,1.36506c-0.646022,-0.417592,-1.37224,-0.721245,-2.15267,-0.879986l0,0l-0.44414,-2.38442l-0.818036,0l-0.818589,0L11.8253,4.02382l0,0c-0.779319,0.15874,-1.50609,0.462393,-2.15267,0.879986l-1.98895,-1.36506l-0.579097,0.577992L6.52604,4.69584l1.34735,1.96351c-0.44414,0.65432,-0.768257,1.39492,-0.941378,2.19305L4.62669,9.28106l0,0.818038l0,0.818591l2.26163,0.420911c0.152656,0.835737,0.470689,1.6134,0.917594,2.29869l-1.28043,1.86561l0.57965,0.578545l0.57799,0.579651l1.84183,-1.26384c0.222347,0.152656,0.455755,0.291485,0.698013,0.415933l1.29426,-3.12613c-0.866156,-0.530425,-1.44415,-1.48563,-1.44415,-2.57414c0,-1.66484,1.34901,-3.01441,3.01495,-3.01441c1.66483,0,3.01329,1.34957,3.01329,3.01441c0,1.09016,-0.57799,2.04371,-1.44359,2.57414l1.29426,3.12613c0.242258,-0.123895,0.474561,-0.263277,0.698566,-0.415933l1.84183,1.26384l0.579097,-0.579651l0.57799,-0.578545l-1.27932,-1.86561c0.448012,-0.685294,0.765492,-1.46351,0.917594,-2.29869l2.26218,-0.420911l0,-0.818591L21.5499,9.28106L19.2435,8.8524z" id="path3028"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M10.5681,20.4294l0,-2.43254l0.271019,-0.118364l0,0.772131c0.105642,-0.0752219,0.227324,-0.112833,0.364494,-0.112833c0.175886,0,0.326883,0.0619475,0.450777,0.185842c0.125554,0.125001,0.188054,0.274339,0.188054,0.449672l0,1.13939l-0.270466,0.117811l0,-1.25222c-0.0022124,-0.103983,-0.038164,-0.191926,-0.108408,-0.259958c-0.07135,-0.0707971,-0.156528,-0.106196,-0.25498,-0.106196c-0.104536,0,-0.192479,0.0353985,-0.263829,0.106196c-0.0696907,0.0696909,-0.104536,0.152656,-0.105642,0.250002l0,0.00995584l0,1.13441L10.5681,20.4294z"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M12.525,19.931c0,0.037611,0.0149337,0.0763281,0.0442481,0.115598c0.054757,0.0724564,0.140488,0.108961,0.258298,0.108961c0.0724562,0,0.136063,-0.0165931,0.191373,-0.0508854l0.101771,0.25498c-0.0873899,0.0464606,-0.185842,0.0691378,-0.29259,0.0691378c-0.168696,0,-0.318586,-0.0613943,-0.449671,-0.185842c-0.0873899,-0.0896026,-0.131638,-0.194692,-0.131638,-0.311397c0,-0.00497792,0,-0.00940274,0,-0.0121682c0,-0.210732,0.107302,-0.35841,0.324117,-0.44746l0.686398,-0.285401c0,-0.105089,-0.0348454,-0.195798,-0.106195,-0.267701s-0.160952,-0.108408,-0.268807,-0.108408c-0.0940272,0,-0.177545,0.0348454,-0.250002,0.105643c-0.0691376,0.0685847,-0.106195,0.153762,-0.107302,0.259958l0,0.0243365l-0.271019,0.120576l0,-0.149891c0,-0.157081,0.0680314,-0.309737,0.202988,-0.452438c0.115598,-0.121682,0.261064,-0.180864,0.436397,-0.180864c0.17478,0,0.325223,0.0602881,0.449671,0.184736c0.125001,0.125001,0.185842,0.273233,0.185842,0.449672l0,1.13994l-0.270466,0.117811l0,-0.947464l-0.556973,0.226219C12.583,19.7634,12.525,19.8387,12.525,19.931z"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M13.9354,20.4294l0,-1.2561c0,-0.175333,0.0613942,-0.325224,0.186395,-0.449672c0.123895,-0.123895,0.272679,-0.185842,0.449671,-0.185842c0.177545,0,0.329648,0.0619475,0.449671,0.185842c0.12666,0.12832,0.188054,0.278764,0.188054,0.449672l0,0.00719033l-0.270466,0.118917l0,-0.121129c-0.0022124,-0.104536,-0.0370578,-0.191926,-0.107302,-0.260511c-0.0724562,-0.070244,-0.156528,-0.105643,-0.25498,-0.105643c-0.10343,0,-0.19082,0.0353985,-0.262723,0.105643c-0.0724562,0.0713502,-0.106748,0.155422,-0.106748,0.255533c0,0.00221241,0,0.00387172,0,0.00497792l0,1.13441L13.9354,20.4294z"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M16.8928,17.8763l0,1.91816c0,0.174227,-0.0619473,0.325224,-0.187501,0.449672c-0.125554,0.123895,-0.274891,0.184736,-0.450224,0.184736c-0.174227,0,-0.325223,-0.0608412,-0.449671,-0.184736c-0.124448,-0.125001,-0.185842,-0.274339,-0.185842,-0.449672l0,-0.621687c0,-0.17478,0.0613942,-0.325224,0.185842,-0.449672c0.123895,-0.125001,0.273232,-0.185842,0.449671,-0.185842c0.138275,0,0.261617,0.0370579,0.368365,0.114492l0,-0.657085L16.8928,17.8763zM15.89,19.7883c0,0.103983,0.0370578,0.191373,0.113386,0.261064c0.0774341,0.070244,0.163165,0.105089,0.262723,0.105089c0.0945803,0,0.176992,-0.0348454,0.248342,-0.105089c0.0702438,-0.0691378,0.105642,-0.155422,0.108961,-0.261064l0,-0.611178c-0.00331861,-0.103983,-0.0387171,-0.191373,-0.108961,-0.259958c-0.07135,-0.0707971,-0.162059,-0.105643,-0.268807,-0.105643c-0.0945803,0,-0.176992,0.0348454,-0.248342,0.105643c-0.0696907,0.0696909,-0.104536,0.153762,-0.105642,0.250002l0,0.00995584l0,0.611178L15.89,19.7883z"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M17.1539,19.9692L17.1539,18.6561l0.269913,-0.118917l-0.0016593,1.42369c0,0.0575226,0.0188054,0.103983,0.0569694,0.144913c0.0359516,0.037611,0.0807527,0.0575226,0.131085,0.0575226c0.0536508,0,0.0990051,-0.0193586,0.134957,-0.0575226c0.038164,-0.0409296,0.0575225,-0.0884964,0.0575225,-0.143807L17.8027,19.9615l0.0022124,-1.30477l0.269913,-0.118917l-0.0027655,1.42369c0,0.0575226,0.0188054,0.103983,0.0569694,0.143807s0.0807527,0.0586288,0.131638,0.0586288c0.0519915,0,0.0973458,-0.0193586,0.134404,-0.0586288c0.0376109,-0.0381641,0.0575225,-0.086284,0.0575225,-0.143807l0.0027655,-1.30477l0.26936,-0.118917l0,1.43253c0,0.12666,-0.0442481,0.235622,-0.134957,0.324118c-0.0890493,0.0907088,-0.19801,0.134957,-0.325223,0.134957c-0.131638,0,-0.241705,-0.0442482,-0.32633,-0.129979c-0.0896024,0.0857308,-0.19801,0.129979,-0.324117,0.129979c-0.134957,0,-0.245024,-0.0442482,-0.330754,-0.129979C17.1992,20.2087,17.155,20.0992,17.1539,19.9692z"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M19.2579,19.931c0,0.037611,0.0132744,0.0763281,0.0431419,0.115598c0.054757,0.0724564,0.140488,0.108961,0.259404,0.108961c0.0719031,0,0.136063,-0.0165931,0.191373,-0.0508854l0.101771,0.25498c-0.0884961,0.0464606,-0.185842,0.0691378,-0.291484,0.0691378c-0.169802,0,-0.318586,-0.0613943,-0.449671,-0.185842c-0.0873899,-0.0896026,-0.131638,-0.194692,-0.131638,-0.311397c0,-0.00497792,0,-0.00940274,0,-0.0121682c0,-0.210732,0.106748,-0.35841,0.323011,-0.44746l0.686951,-0.285401c0,-0.105089,-0.0353985,-0.195798,-0.106748,-0.267701c-0.0702438,-0.0724564,-0.159846,-0.108408,-0.267701,-0.108408c-0.0945803,0,-0.178099,0.0348454,-0.249449,0.105643c-0.0702438,0.0685847,-0.105642,0.153762,-0.107855,0.259958l0,0.0243365l-0.269913,0.120576l0,-0.149891c0,-0.157081,0.0674783,-0.309737,0.201882,-0.452438c0.114492,-0.121682,0.261064,-0.180864,0.43529,-0.180864c0.175886,0,0.326883,0.0602881,0.449671,0.184736c0.123895,0.125001,0.185842,0.273233,0.185842,0.449672l0,1.13994l-0.270466,0.117811l0,-0.947464l-0.55642,0.226219C19.3159,19.7634,19.2579,19.8387,19.2579,19.931z"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M20.6688,20.4294l0,-1.2561c0,-0.175333,0.0613942,-0.325224,0.185842,-0.449672c0.124448,-0.123895,0.273785,-0.185842,0.449671,-0.185842c0.178652,0,0.329648,0.0619475,0.450777,0.185842c0.125001,0.12832,0.187501,0.278764,0.187501,0.449672l0,0.00719033l-0.269913,0.118917l0,-0.121129c-0.0022124,-0.104536,-0.0370578,-0.191926,-0.107855,-0.260511c-0.0724562,-0.070244,-0.156528,-0.105643,-0.25498,-0.105643c-0.10343,0,-0.190267,0.0353985,-0.262723,0.105643c-0.0724562,0.0713502,-0.107855,0.155422,-0.107855,0.255533c0,0.00221241,0,0.00387172,0,0.00497792l0,1.13441L20.6688,20.4294z"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M22.9979,20.1556c0.0945803,0,0.176992,-0.0353985,0.250002,-0.105643c0.0696907,-0.0691378,0.105089,-0.155422,0.107302,-0.260511l0,-0.0248896l0.269913,-0.118917l0,0.148785c0,0.157081,-0.0674783,0.309737,-0.201882,0.451885c-0.114492,0.122789,-0.261064,0.182524,-0.43529,0.182524c-0.175886,0,-0.32633,-0.0613943,-0.449671,-0.185842s-0.185289,-0.273233,-0.185289,-0.449672l0,-0.621687c0,-0.17478,0.0613942,-0.325224,0.185289,-0.449672c0.123895,-0.125001,0.273785,-0.186949,0.449671,-0.186949c0.168696,0,0.318586,0.0619475,0.449671,0.186949c0.12666,0.116705,0.187501,0.266042,0.187501,0.449672l0,0.15874L22.6218,19.7767c0,0.106749,0.0348454,0.196351,0.105642,0.269361C22.7994,20.1185,22.8901,20.1556,22.9979,20.1556zM22.978,18.8116c-0.0945803,0,-0.177545,0.0348454,-0.247789,0.105643c-0.07135,0.0713502,-0.106748,0.155975,-0.106748,0.255533c0,0.00221241,0,0.00387172,0,0.00497792l0,0.304206l0.731199,-0.325224c-0.00553101,-0.0951336,-0.0409295,-0.173674,-0.105089,-0.23894C23.1749,18.8464,23.0853,18.8116,22.978,18.8116z"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M3.00444,18.4841c-0.17478,0,-0.325776,0.0619475,-0.449671,0.185842c-0.124448,0.123895,-0.185842,0.273786,-0.185842,0.449672l0,0.621134c0,0.174227,0.0613942,0.325777,0.185842,0.449672c0.123895,0.124448,0.273232,0.185289,0.449671,0.185289c0.176439,0,0.32633,-0.0608412,0.450777,-0.185289c0.125001,-0.123895,0.187501,-0.273786,0.187501,-0.449672l0,-0.621134c0,-0.175887,-0.0625004,-0.32633,-0.187501,-0.449672C3.33022,18.5466,3.17978,18.4841,3.00444,18.4841zM3.37281,19.7369c-0.0022124,0.103983,-0.0376109,0.191926,-0.107855,0.261064c-0.0724562,0.0707971,-0.155421,0.105089,-0.250002,0.105089c-0.0978989,0,-0.185289,-0.0348454,-0.26217,-0.105089c-0.0757748,-0.0707971,-0.113386,-0.157081,-0.113386,-0.261064l0,0l0,-0.610625l0,-0.0116151c0.0011062,-0.097346,0.0359516,-0.179205,0.105642,-0.249449c0.0707969,-0.0713502,0.153762,-0.105643,0.248342,-0.105643c0.107855,0,0.197457,0.0348454,0.269913,0.105643c0.0702438,0.0691378,0.106195,0.155422,0.108961,0.261064L3.37281,19.7369L3.37281,19.7369z" stroke-width="0.11062" stroke="#000000"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M4.77824,18.4841c-0.175886,0,-0.32633,0.0619475,-0.45133,0.185842c-0.125001,0.123895,-0.186948,0.273786,-0.186948,0.449672l0,1.91761l0.269913,-0.118917l0,-0.657085c0.106195,0.0774343,0.23009,0.114492,0.368365,0.114492c0.175333,0,0.325223,-0.0608412,0.449671,-0.185289c0.124448,-0.123895,0.185842,-0.273786,0.185842,-0.449672l0,-0.621134c0,-0.175887,-0.0619473,-0.32633,-0.185842,-0.449672C5.10346,18.5461,4.95302,18.4841,4.77824,18.4841zM5.14218,19.7369c-0.0022124,0.103983,-0.0376109,0.191926,-0.107855,0.261064c-0.0724562,0.0707971,-0.155421,0.105089,-0.250555,0.105089c-0.0973458,0,-0.184736,-0.0348454,-0.26217,-0.105089c-0.0757748,-0.0707971,-0.112833,-0.157081,-0.112833,-0.261064l0,0l0,-0.610625l0,-0.0116151c0.0011062,-0.097346,0.0365047,-0.179205,0.106195,-0.249449c0.0707969,-0.0713502,0.152656,-0.105643,0.247789,-0.105643c0.108961,0,0.198563,0.0348454,0.271019,0.105643c0.0691376,0.0691378,0.105089,0.155422,0.107302,0.261064L5.14218,19.7369L5.14218,19.7369z" stroke-width="0.11062" stroke="#000000"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M6.54429,18.4841c-0.17478,0,-0.325776,0.0619475,-0.449671,0.185842c-0.125001,0.123895,-0.185842,0.273786,-0.185842,0.449672l0,0.621134c0,0.174227,0.0613942,0.325777,0.185842,0.449672c0.123342,0.124448,0.273232,0.185289,0.449671,0.185289s0.320799,-0.059735,0.435844,-0.182524c0.13551,-0.143807,0.202435,-0.29425,0.202435,-0.451885l0,-0.149891l-0.269913,0.120576l0,0.0237834c-0.0016593,0.104536,-0.0376109,0.19248,-0.107855,0.260511c-0.0724562,0.0719033,-0.155421,0.106196,-0.250555,0.106196c-0.107855,0,-0.196904,-0.0359516,-0.267701,-0.108408c-0.07135,-0.0724564,-0.106748,-0.163165,-0.106748,-0.268808l1.00333,-0.44746l0,-0.15874c0,-0.182524,-0.0619473,-0.332968,-0.186948,-0.449672C6.86343,18.5461,6.71299,18.4841,6.54429,18.4841zM6.17924,19.4288l0,-0.304206c0,-0.0011062,0,-0.00387172,0,-0.00608412c0,-0.0984522,0.0353985,-0.18363,0.105642,-0.25498c0.07135,-0.0713502,0.154315,-0.105643,0.248342,-0.105643c0.108408,0,0.19801,0.0348454,0.271019,0.105643c0.0652659,0.064713,0.100664,0.144913,0.105642,0.239493L6.17924,19.4288z" stroke-width="0.11062" stroke="#000000"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M8.76554,18.67c-0.126107,-0.123895,-0.27655,-0.185289,-0.450777,-0.185289c-0.175333,0,-0.325776,0.0613943,-0.449671,0.185289c-0.123895,0.123895,-0.185289,0.273786,-0.185289,0.449672l0,1.2561l0.270466,-0.118364l0,-1.13386c0,-0.0011062,0,-0.00276551,0,-0.00497792c0,-0.100665,0.0353985,-0.18363,0.107855,-0.253874c0.0735624,-0.0724564,0.160952,-0.107302,0.261617,-0.107302c0.0978989,0,0.183076,0.0348454,0.255533,0.106196c0.0691376,0.0680316,0.105089,0.153762,0.107855,0.259958l0,1.25222l0.270466,-0.118364l0,-1.13884C8.95249,18.9438,8.88999,18.7939,8.76554,18.67z" stroke-width="0.11062" stroke="#000000"/>
+</g>
+</g></g><g partID='855809980'><g transform='translate(199.773,89.1167)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <g xmlns="http://www.w3.org/2000/svg" id="silkscreen0">
+  <rect xmlns="http://www.w3.org/2000/svg" fill="#000000" x="1.06647" width="11.9055" y="11.9023" height="1.06968"/>
+  <g xmlns="http://www.w3.org/2000/svg">
+   <circle xmlns="http://www.w3.org/2000/svg" fill="#000000" cy="9.02592" cx="6.59508" r="0.449798"/>
+   <path xmlns="http://www.w3.org/2000/svg" fill="#000000" d="M1.06647,1.06647l0,10.1619l11.9055,0l0,-10.1619L1.06647,1.06647zM9.07138,3.58127c-0.121943,0.0700637,-0.27865,0.106433,-0.4621,0.106433l-0.749842,0c-0.142267,0,-0.26207,0.00481354,-0.357271,0.0133709c-0.0722031,0.00748773,-0.13157,0.0347645,-0.181845,0.0866437l-0.00213935,0.00106968l-0.00213935,0.00160451c-0.0722031,0.0679244,-0.117129,0.143337,-0.138523,0.232654c-0.0235329,0.102154,-0.0347644,0.223562,-0.0347644,0.361015L7.14276,4.81354l0.661594,0c0.185589,0,0.342296,0.036369,0.462634,0.105898c0.143871,0.082365,0.21447,0.233189,0.21447,0.447659c0,0.260466,-0.117129,0.381874,-0.21447,0.438032c-0.121943,0.0700637,-0.27865,0.106433,-0.462634,0.106433l-0.661594,0l0,2.01046c0.407011,0.202704,0.690475,0.619342,0.690475,1.10337c0,0.682453,-0.555696,1.23708,-1.23761,1.23708c-0.681383,0,-1.23761,-0.554627,-1.23761,-1.23708c0,-0.482958,0.281859,-0.900132,0.687801,-1.10284l0,-2.01206l-0.385083,0c-0.184519,0,-0.340692,-0.0358341,-0.4621,-0.105898c-0.0978753,-0.0566928,-0.21554,-0.178101,-0.21554,-0.438567c0,-0.21447,0.0727379,-0.365294,0.21554,-0.447659C5.31896,4.84991,5.47513,4.81354,5.65965,4.81354l0.385083,0L6.04473,4.38406c0,-0.26314,0.0304857,-0.507561,0.0898527,-0.726844c0.062576,-0.229445,0.200564,-0.44552,0.41236,-0.643945c0.101619,-0.101084,0.203238,-0.18238,0.303253,-0.240677c0.101619,-0.0599018,0.206982,-0.102689,0.313415,-0.127826c0.101084,-0.0235329,0.209121,-0.0385083,0.319833,-0.0454612c0.109107,-0.00641805,0.229445,-0.00962708,0.355667,-0.00962708l0.769096,0c0.185054,0,0.340692,0.0358341,0.4621,0.105898c0.142802,0.0818302,0.21447,0.233189,0.21447,0.447124C9.28585,3.40317,9.16925,3.52512,9.07138,3.58127z"/>
+  </g>
+ </g>
+</g>
+</g></g><g partID='855810200'><g transform='translate(20.1969,33.6346)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" font-size="2.39855" x="16.7898" stroke-width="0" id="label" y="2.15869" font-family="OCRA">Amiga 2 Button</text>
+</g>
+</g></g></g><g partID='855768800' id='partLabel'><g transform='translate(222.245,102.137)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g font-size='3' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='2.25'>2.54mm 7 Pin Screw Terminal1</text></g></g></g></g><g partID='855797930' id='partLabel'><g transform='translate(206.354,21.9664)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g font-size='3' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='2.25'>2.54mm 6 Pin Screw Terminal2</text></g></g></g></g><g partID='855793430' id='partLabel'><g transform='translate(119.735,22.1689)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g font-size='3' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='2.25'>2.54mm 7 Pin Screw Terminal1</text></g></g></g></g><g partID='855768660' id='partLabel'><g transform='translate(80.4561,40.5714)' ><g font-size='3' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='2.25'>10 Button USB Joystick  PCB v1.6  Michael Farrell 2020</text></g></g></g><g partID='855768700' id='partLabel'><g transform='translate(109.109,66.2046)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>Arduino Micro</text></g></g></g><g partID='855768760' id='partLabel'><g transform='translate(6.55989,24.1429)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g font-size='3' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='2.25'>DR9 M</text></g></g></g></g></svg>

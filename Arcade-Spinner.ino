@@ -17,37 +17,32 @@
 *    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
-#include "Mouse.h"          // For Spinner (Mouse X axis)
-#include <Joystick.h>       // For Joystick mode (all physical buttons are joystick buttons)
-#include "Keyboard.h"       // For secondary <shift> button
+#include "Mouse.h"
+#include <Joystick.h>
 
                  
-#define pinA 2            // The pins that the rotary encoder's A and B terminals are connected to.
+#define pinA 2    // The pins that the rotary encoder's A and B terminals are connected to.
 #define pinB 3
-#define maxBut 9          // The number of buttons you are using up to 10, though, if using a 2 axis joystick, max is 18 buttons.
-#define JOYSTICK_COUNT 2  // The number of joysticks connected to the Arduino
+#define maxBut 10 // The number of buttons you are using up to 20, though, if using a 2 axis joystick, max is 18 buttons.
 
-//Create Joystick objects
-Joystick_ Joystick[JOYSTICK_COUNT] = {
-  Joystick_(0x03, JOYSTICK_TYPE_GAMEPAD, maxBut, 0, true, true, false, false, false, false, false, false, false, false, false),
-  Joystick_(0x04, JOYSTICK_TYPE_GAMEPAD, maxBut, 0, true, true, false, false, false, false, false, false, false, false, false),
-};
 
-// Use ID 03 for first joystick, 04 for second joystick
-// Joystick type: gamepad / digital joystick
-// maxBut: Button Count (Both sticks will be the same)
-// 0:  Hat Switch Count
-// X Axis. We need at least two axes. 
-// Y Axis. Second axis used.
-// No Z Axis  
-// No Rx
-// No Ry
-// No Rz
-// No rudder
-// No throttle      
-// No accelerator
-// No brake
-// No steering
+//Create a Joystick object.
+Joystick_ Joystick(
+	JOYSTICK_DEFAULT_REPORT_ID,		// 
+	JOYSTICK_TYPE_GAMEPAD,			// Joystick type: gamepad / digital joystick
+	maxBut,							// Button Count
+	0,             					// Hat Switch Count
+	true,							// X Axis. We need at least two axes. 
+	true,							// Y Axis. Second axis used.
+	false,							// No Z Axis  
+	false, 							// No Rx
+	false, 							// No Ry
+	false,   						// No Rz
+	false, 							// No rudder
+	false,    						// No throttle      
+	false, 							// No accelerator
+	false, 							// No brake
+	false);  						// No steering
 
 
 //The previous state of the AB pins
@@ -152,29 +147,23 @@ void setup() {
   PORTE = 0b01000000; // Digital pin D7
   PORTF = 0b11110011; // Digital pin A0, A1, A2, A3, A4, A5
   
-  //Start the joysticks
-  for (int index = 0; index < JOYSTICK_COUNT; index++)
-  {
-  Joystick[index].begin();
-  
+  //Start the joystick
+  Joystick.begin();
+     
   // Set Range for digital joystick / joypad ie on/off.
-  Joystick[index].setXAxisRange(-1, 1);
-  Joystick[index].setYAxisRange(-1, 1);
+  Joystick.setXAxisRange(-1, 1);
+  Joystick.setYAxisRange(-1, 1);
         
   //Center the X and Y axes on the joystick
-  Joystick[index].setXAxis(0);
-  Joystick[index].setYAxis(0);
-  }
-
+  Joystick.setXAxis(0);
+  Joystick.setYAxis(0);
+  
   //Set up the interrupt handler for the encoder's A and B terminals on digital pins 2 and 3 respectively. Both interrupts use the same handler.
   attachInterrupt(digitalPinToInterrupt(pinA), pinChange, CHANGE); 
   attachInterrupt(digitalPinToInterrupt(pinB), pinChange, CHANGE);
 
   //Start the mouse
   Mouse.begin();
-
-  //Start the keyboard
-  Keyboard.begin();
   }
 
 //Interrupt handler
@@ -262,19 +251,19 @@ void loop(){
     switch ( jb ) {
      
         case 0: // Joystick Up
-        Joystick[0].setYAxis(-!currentJoyState);
+        Joystick.setYAxis(-!currentJoyState);
         break;
      
         case 2: // Joystick Down
-        Joystick[0].setYAxis(!currentJoyState);
+        Joystick.setYAxis(!currentJoyState);
         break;
      
         case 1: // Joystick Right
-        Joystick[0].setXAxis(!currentJoyState);
+        Joystick.setXAxis(!currentJoyState);
         break;
      
         case 3: // Joystick Left
-        Joystick[0].setXAxis(-!currentJoyState);
+        Joystick.setXAxis(-!currentJoyState);
         break;
      
         }
@@ -327,7 +316,7 @@ void loop(){
     }
     //If the current state of the pin for each button is different than last time, update the joystick button state
     if(currentButtonState != lastButtonState[button])
-      Joystick[0].setButton(button, !currentButtonState);
+      Joystick.setButton(button, !currentButtonState);
       
     //Save the last button state for each button for next time
     lastButtonState[button] = currentButtonState;

@@ -1,4 +1,0 @@
-{
-    "board": "arduino:avr:micro",
-    "programmer": "Arduino as ISP"
-}

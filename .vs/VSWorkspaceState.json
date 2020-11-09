@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Arcade_Spinner_2Player_74HC165",
-    "\\PCB"
+    "\\Arcade_Spinner_2Player_74HC165\\PCB",
+    "\\Arcade_Spinner_2Player_74HC165\\PCB-SMD"
   ],
-  "SelectedNode": "\\PCB\\Arduino Micro - 10 Button USB Joystick with Rotary Encoder (Smaller) REV .1.6.fzz",
+  "SelectedNode": "\\Arcade_Spinner_2Player_74HC165\\Arcade_Spinner_2Player_74HC165.ino",
   "PreviewInSolutionExplorer": false
 }

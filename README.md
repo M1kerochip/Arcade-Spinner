@@ -1,4 +1,4 @@
-# Arcade-Spinner v0.71
+# Arcade-Spinner v1.00
 This is an Arduino Micro (ATMega32U4) (or clone) arcade spinner with 2 axis digital joystick and 10 buttons for use with MAME or any other emulator which can use the X axis of the mouse as a paddle/spinner controller. This code should also work on any board which uses the ATmega32U4 as long as the port pins are mapped to the same "digital pins" as the Micro. I created this spinner because I wanted a cheaper alternative to the commercially available ones. I find it works well for ball and paddle games, Tempest, and also makes a decent controller for driving games.
 
 To construct this you will need a 2-phase rotary encoder which can operate at 5v and some momentary switch buttons. The rotary encoder I used is: https://www.amazon.com/Signswise-Incremental-Encoder-Dc5-24v-Voltage/dp/B00UTIFCVA 
@@ -21,11 +21,46 @@ Make sure to turn off mouse acceleration for the spinner to work properly.
 
 ## Updates ##
 
-### 2020-08-01 ###
+### 2020-11-14 ### (MF)
+
+* Added support for 4 players (4x Joysticks)
+* Added Keyboard support (All 4 players use the same keyboard, or 4 different joysticks, with a similar keyboard layout to MAME)
+* Added Keyboard / Joystick toggle switch. In joystick mode, each player has their own joystick. In keyboard mode, each player uses the one keyboard.
+* Added a dedicated [QUIT] button.
+* Code for reading 74HC165's supports only player 1 and 2 at the moment, and is handled in software only.
+* Player 3 and 4 each only use 4 inputs in MAME: 4 directions, button 1-3 and Start
+* Added second function button (called SHIFT on the PCBs). Each button/direction may now press a key as a secondary function, if [SHIFT] is held down.
+* Added second function to [QUIT] button (Normal quit is [ESC] but [SHIFT]+[QUIT] is [ALT]+[F4])
+* Added second function to player 1 buttons. Full layout in the source. (It's mostly for a Retroarch layout atm)
+* Added MAME config for players 1-4. (Layout is for main buttons/keys only. Next, is the second/SHIFT functions. I either need to map MAME to Retroarch layout, or vice versa. Undecided as of yet.)
+* Modified keyboard HID to allow 30 keypresses at once. Very preliminary at the moment, since I'm not 100% sure it's correct or even works. I don't have enough buttons to test yet.
+
+
+
+### 2020-11-01 ### (MF)
+
+* ALL PCB layouts are untested.
+
+* Added PCB for 2 players with 2x 74HC165's (SMD).
+* Added PCB for 1 player with 15 pin Neo Geo input (THT).
+* Added PCB for 1 player with 9 pin Atari/Amiga input (THT). (9Pin input supports 2 buttons (Amiga layout))
+
+
+
+### 2020-10-01 ### (MF)
+
+* Switched over development from the Arduino IDE to PlatformIO using Visual Studio Code.
+* Program/sketch is now main.cpp instead of Arcade-Spiner.ino
+* Rewrote much of the code to better understand it.
+* Expanded code to support 1-6 Serial shift registers (74HC165, CD4041 etc) and 1-6 players, in theory.
+
+
+
+### 2020-08-01 ### (MF+JD)
 
 * Added 2 axis joystick.
 * Removed Arduino Pro Micro comments. (All Arduino Pro Micro's I've purchased have the same pinout as the standard Arduino Micro)
-* Added example Mame controller config file with button layout
+* Added example Mame controller config file with button layout.
 
 
 

@@ -24,7 +24,7 @@
 */
 
 # include <Arduino.h>
-# include "Keyboard.h"	// For secondary <shift> button, and keyboard presses
+# include "Keyboard30.h"	// For secondary <shift> button, and keyboard presses
 # include "Mouse.h"	  		// For Spinner (Mouse X axis)
 # include "Joystick.h"		// For Joystick control
 
